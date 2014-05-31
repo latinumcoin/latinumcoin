@@ -2,11 +2,11 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Latinumcoin Core</source>
         <translation>비트코인 코어 소개</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Bitcoin Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Latinumcoin Core&lt;/b&gt; version</source>
         <translation>&lt;b&gt;비트코인 코어&lt;/b&gt; 버젼</translation>
     </message>
     <message>
@@ -28,7 +28,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Latinumcoin Core developers</source>
         <translation>비트코인코어 개발자들</translation>
     </message>
     <message>
@@ -103,11 +103,11 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>받은 주소들</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Latinumcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>이것이 비트코인 금액을 보내는 주소이다. 항상 코인을 보내기전에 잔고와 받는 주소를 확인하시오</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Latinumcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -205,7 +205,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>지갑의 암호화를 확정</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUMCOINS&lt;/b&gt;!</source>
         <translation>경고: 만약 당신의 지갑을 암호화 하고 비밀번호를 잃어 버릴 경우, 당신의 모든 비트코인들을 잃어버릴 수 있습니다!</translation>
     </message>
     <message>
@@ -225,7 +225,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>지갑 암호화 완료</translation>
     </message>
     <message>
-        <source>Bitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Latinumcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>암호화 처리 과정을 끝내기 위해 비트코인을 닫겠습니다. 지갑 암호화는 컴퓨터로의 멀웨어 감염으로 인한 비트코인 도난을 완전히 막아주지 못함을 기억하십시오.</translation>
     </message>
     <message>
@@ -258,7 +258,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>LatinumcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>메시지 서명&amp;...</translation>
@@ -296,7 +296,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>적용 중단</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin</source>
+        <source>Show information about Latinumcoin</source>
         <translation>비트코인에 대한 정보를 보여줍니다.</translation>
     </message>
     <message>
@@ -344,11 +344,11 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>디스크에서 블록 다시 색인중...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Latinumcoin address</source>
         <translation>비트코인 주소로 코인 전송</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin</source>
+        <source>Modify configuration options for Latinumcoin</source>
         <translation>비트코인 설정 옵션 수정</translation>
     </message>
     <message>
@@ -372,7 +372,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>메시지 확인&amp;...</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
+        <source>Latinumcoin</source>
         <translation>비트코인</translation>
     </message>
     <message>
@@ -400,11 +400,11 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>소유 지갑 개인키 암호화</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
+        <source>Sign messages with your Latinumcoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Latinumcoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -428,7 +428,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>[테스트넷]</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Latinumcoin Core</source>
         <translation>비트코인코어</translation>
     </message>
     <message>
@@ -436,7 +436,7 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>지불 요청하기 (QR코드와 비트코인이 생성됩니다: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Latinumcoin Core</source>
         <translation>&amp;비트코인 코어 소개</translation>
     </message>
     <message>
@@ -456,15 +456,15 @@ MIT/X11 프로그램 라이선스에 따라 배포합니다. COPYING 또는 http
         <translation>명령어-라인 옵션</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Latinumcoin Core help message to get a list with possible Latinumcoin command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin client</source>
+        <source>Latinumcoin client</source>
         <translation>비트코인 고객</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
+        <source>%n active connection(s) to Latinumcoin network</source>
         <translation><numerusform>비트코인 네트워크와 %n 개의 활성연결</numerusform></translation>
     </message>
     <message>
@@ -560,7 +560,7 @@ Address: %4
         <translation>지갑이 암호화 되었고 현재 잠겨져 있습니다</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Latinumcoin can no longer continue safely and will quit.</source>
         <translation>치명적인 오류가 있습니다. 비트코인을 더이상 안전하게 진행할 수 없어 빠져나갑니다.</translation>
     </message>
 </context>
@@ -845,7 +845,7 @@ Address: %4
         <translation>입력된 주소는&quot;%1&quot; 이미 주소록에 있습니다.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Latinumcoin address.</source>
         <translation>입력한 &quot;%1&quot; 주소는 올바른 비트코인 주소가 아닙니다.</translation>
     </message>
     <message>
@@ -883,11 +883,11 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core - Command-line options</source>
+        <source>Latinumcoin Core - Command-line options</source>
         <translation>비트코인 코어 - 명령어-라인 옵션</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Latinumcoin Core</source>
         <translation>비트코인코어</translation>
     </message>
     <message>
@@ -934,15 +934,15 @@ Address: %4
         <translation>환영합니다</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Latinumcoin Core.</source>
         <translation>비트코인 코어에 오신것을 환영합니.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Latinumcoin Core will store its data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Latinumcoin Core will download and store a copy of the Latinumcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -954,7 +954,7 @@ Address: %4
         <translation>커스텀 데이터 폴더 사용:</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
+        <source>Latinumcoin</source>
         <translation>비트코인</translation>
     </message>
     <message>
@@ -1016,11 +1016,11 @@ Address: %4
         <translation>송금 수수료(&amp;F)</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin after logging in to the system.</source>
+        <source>Automatically start Latinumcoin after logging in to the system.</source>
         <translation>시스템 로그인후에 비트코인을 자동으로 시작합니다.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin on system login</source>
+        <source>&amp;Start Latinumcoin on system login</source>
         <translation>시스템 로그인시 비트코인 시작(&amp;S)</translation>
     </message>
     <message>
@@ -1036,7 +1036,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS proxy.</source>
+        <source>Connect to the Latinumcoin network through a SOCKS proxy.</source>
         <translation>SOCKS 프록시를 통해 비트코인 네트워크 연결</translation>
     </message>
     <message>
@@ -1088,7 +1088,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Latinumcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>라우터의 비트코인 클라이언트 포트를 자동으로 엽니다. 라우터에서 UPnP를 지원하고 활성화 했을 경우에만 동작합니다.</translation>
     </message>
     <message>
@@ -1144,7 +1144,7 @@ Address: %4
         <translation>사용자 인터페이스 언어(&amp;L):</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Latinumcoin.</source>
         <translation>사용자 인터페이스 언어를 여기서 설정할 수 있습니다. 이 설정은 비트코인을 다시 시작할때 적용됩니다.</translation>
     </message>
     <message>
@@ -1156,7 +1156,7 @@ Address: %4
         <translation>인터페이스에 표시하고 코인을 보낼때 사용할 기본 최소화 단위를 선택하십시오.</translation>
     </message>
     <message>
-        <source>Whether to show Bitcoin addresses in the transaction list or not.</source>
+        <source>Whether to show Latinumcoin addresses in the transaction list or not.</source>
         <translation>송금 목록에 비트코인 주소를 표시할지의 여부입니다.</translation>
     </message>
     <message>
@@ -1211,7 +1211,7 @@ Address: %4
         <translation>유형</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Latinumcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>표시한 정보가 오래된 것 같습니다. 비트코인 네트워크에 연결하고 난 다음에 지갑을 자동으로 동기화 하지만, 아직 과정이 끝나지는 않았습니다.</translation>
     </message>
     <message>
@@ -1266,7 +1266,7 @@ Address: %4
         <translation>URI 조작중</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Latinumcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1333,7 +1333,7 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Bitcoin</source>
+        <source>Latinumcoin</source>
         <translation>비트코인</translation>
     </message>
     <message>
@@ -1349,7 +1349,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>비트코인 주소를 입력하기 (예 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
@@ -1471,7 +1471,7 @@ Address: %4
         <translation>로그 파일 디버그</translation>
     </message>
     <message>
-        <source>Open the Bitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Latinumcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>비트코인 디버그 로그파일을 현재 데이터 폴더에서 여십시요. 용량이 큰 로그 파일들은 몇 초가 걸릴 수 있습니다.</translation>
     </message>
     <message>
@@ -1479,7 +1479,7 @@ Address: %4
         <translation>콘솔 초기화</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin RPC console.</source>
+        <source>Welcome to the Latinumcoin RPC console.</source>
         <translation>비트코인 RPC 콘솔에 오신걸 환영합니다</translation>
     </message>
     <message>
@@ -1542,7 +1542,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Latinumcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1855,7 +1855,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
+        <source>Warning: Invalid Latinumcoin address</source>
         <translation>경고: 잘못된 비트코인주소입니다</translation>
     </message>
     <message>
@@ -1942,7 +1942,7 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
+        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Latinumcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1961,7 +1961,7 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Latinumcoin Core is shutting down...</source>
         <translation>비트코인코어가 닫아지고 있습니다</translation>
     </message>
     <message>
@@ -2016,7 +2016,7 @@ Address: %4
         <translation>현재 서명을 시스템 클립보드에 복사</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
+        <source>Sign the message to prove you own this Latinumcoin address</source>
         <translation>여러분의 비트코인 주소를 증명하려면 메시지 서명하십시오</translation>
     </message>
     <message>
@@ -2044,7 +2044,7 @@ Address: %4
         <translation>서명한 메시지의 주소입니다 (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Latinumcoin address</source>
         <translation>정확한 비트코인주소가 입력됬는지 메시지를 확인하시오</translation>
     </message>
     <message>
@@ -2056,7 +2056,7 @@ Address: %4
         <translation>모든 검증 메시지 필드 재설정</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>비트코인 주소를 입력하기 (예 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
@@ -2115,11 +2115,11 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Latinumcoin Core</source>
         <translation>비트코인코어</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Latinumcoin Core developers</source>
         <translation>비트코인코어 개발자들</translation>
     </message>
     <message>
@@ -2646,7 +2646,7 @@ Address: %4
         <translation>명령줄과 JSON-RPC 명령 수락</translation>
     </message>
     <message>
-        <source>Bitcoin Core RPC client version</source>
+        <source>Latinumcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2671,7 +2671,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Latinumcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2744,7 +2744,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2756,7 +2756,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>경고: -paytxfee값이 너무 큽니다! 이 값은 송금할때 지불할 송금 수수료입니다.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bitcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Latinumcoin will not work properly.</source>
         <translation>경고: 컴퓨터의 날짜와 시간이 올바른지 확인하십시오! 시간이 잘못되면 비트코인은 제대로 동작하지 않습니다.</translation>
     </message>
     <message>
@@ -2792,7 +2792,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>손상된 wallet.dat에서 개인키 복원을 시도합니다</translation>
     </message>
     <message>
-        <source>Bitcoin Core Daemon</source>
+        <source>Latinumcoin Core Daemon</source>
         <translation>비트코인 코어 데몬</translation>
     </message>
     <message>
@@ -3032,7 +3032,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>외부 blk000??.dat 파일에서 블록 가져오기</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3096,7 +3096,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
+        <source>RPC SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3116,11 +3116,11 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
         <translation>SSL 옵션: (SSL 설정 절차를 보혀면 비트코인 위키를 참조하십시오)</translation>
     </message>
     <message>
-        <source>Send command to Bitcoin Core</source>
+        <source>Send command to Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3156,7 +3156,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>밀리초 단위로 연결 제한시간을 설정하십시오(기본값: 5000)</translation>
     </message>
     <message>
-        <source>Start Bitcoin Core Daemon</source>
+        <source>Start Latinumcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3272,11 +3272,11 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>wallet.dat 불러오기 에러: 지갑 오류</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Latinumcoin</source>
         <translation>wallet.dat 불러오기 에러:  지갑은 새버전의 비트코인이 필요합니다.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart Latinumcoin to complete</source>
         <translation>지갑을 새로 써야 합니다.:  완성하기 위하여 비트코인을 다시 시작하십시오.</translation>
     </message>
     <message>

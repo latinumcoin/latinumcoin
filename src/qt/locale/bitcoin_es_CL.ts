@@ -2,11 +2,11 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&lt;b&gt;Bitcoin Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Latinumcoin Core&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -31,7 +31,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Latinumcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -106,11 +106,11 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Latinumcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Latinumcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -208,8 +208,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>Confirma la codificación de cartera</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Atención: ¡Si codificas tu billetera y pierdes la contraseña perderás &lt;b&gt;TODOS TUS BITCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUMCOINS&lt;/b&gt;!</source>
+        <translation>Atención: ¡Si codificas tu billetera y pierdes la contraseña perderás &lt;b&gt;TODOS TUS LATINUMCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -228,8 +228,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>Billetera codificada</translation>
     </message>
     <message>
-        <source>Bitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus bitcoins de ser robados por malware que infecte su computador</translation>
+        <source>Latinumcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Latinumcoin se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus bitcoins de ser robados por malware que infecte su computador</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -261,7 +261,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>LatinumcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>Firmar &amp;Mensaje...</translation>
@@ -299,8 +299,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>Salir del programa</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin</source>
-        <translation>Muestra información acerca de Bitcoin</translation>
+        <source>Show information about Latinumcoin</source>
+        <translation>Muestra información acerca de Latinumcoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -347,11 +347,11 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>Cargando el index de bloques...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Latinumcoin address</source>
         <translation>Enviar monedas a una dirección bitcoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin</source>
+        <source>Modify configuration options for Latinumcoin</source>
         <translation>Modifica las opciones de configuración de bitcoin</translation>
     </message>
     <message>
@@ -375,8 +375,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -403,11 +403,11 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
+        <source>Sign messages with your Latinumcoin addresses to prove you own them</source>
         <translation>Firmar un mensaje para provar que usted es dueño de esta dirección</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Latinumcoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -431,7 +431,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>[red-de-pruebas]</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -439,7 +439,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -459,16 +459,16 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Latinumcoin Core help message to get a list with possible Latinumcoin command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin client</source>
-        <translation>Cliente Bitcoin</translation>
+        <source>Latinumcoin client</source>
+        <translation>Cliente Latinumcoin</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n conexión activa hacia la red Bitcoin</numerusform><numerusform>%n conexiones activas hacia la red Bitcoin</numerusform></translation>
+        <source>%n active connection(s) to Latinumcoin network</source>
+        <translation><numerusform>%n conexión activa hacia la red Latinumcoin</numerusform><numerusform>%n conexiones activas hacia la red Latinumcoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -562,7 +562,7 @@ Dirección: %4</translation>
         <translation>La billetera esta &lt;b&gt;codificada&lt;/b&gt; y actualmente &lt;b&gt;bloqueda&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Latinumcoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -847,8 +847,8 @@ Dirección: %4</translation>
         <translation>La dirección introducida &quot;%1&quot; ya esta guardada en la libreta de direcciones.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección Bitcoin valida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Latinumcoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección Latinumcoin valida.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -885,11 +885,11 @@ Dirección: %4</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core - Command-line options</source>
+        <source>Latinumcoin Core - Command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -937,15 +937,15 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Latinumcoin Core.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Latinumcoin Core will store its data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Latinumcoin Core will download and store a copy of the Latinumcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -957,8 +957,8 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1019,12 +1019,12 @@ Dirección: %4</translation>
         <translation>Comisión de &amp;transacciónes</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin after logging in to the system.</source>
-        <translation>Inicia Bitcoin automáticamente despues de encender el computador</translation>
+        <source>Automatically start Latinumcoin after logging in to the system.</source>
+        <translation>Inicia Latinumcoin automáticamente despues de encender el computador</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin on system login</source>
-        <translation>&amp;Inicia Bitcoin al iniciar el sistema</translation>
+        <source>&amp;Start Latinumcoin on system login</source>
+        <translation>&amp;Inicia Latinumcoin al iniciar el sistema</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1039,7 +1039,7 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS proxy.</source>
+        <source>Connect to the Latinumcoin network through a SOCKS proxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1091,8 +1091,8 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abre automáticamente el puerto del cliente Bitcoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the Latinumcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abre automáticamente el puerto del cliente Latinumcoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1147,7 +1147,7 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Latinumcoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1159,7 +1159,7 @@ Dirección: %4</translation>
         <translation>Elige la subdivisión por defecto para mostrar cantidaded en la interfaz cuando se envien monedas</translation>
     </message>
     <message>
-        <source>Whether to show Bitcoin addresses in the transaction list or not.</source>
+        <source>Whether to show Latinumcoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1214,7 +1214,7 @@ Dirección: %4</translation>
         <translation>Formulario</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Latinumcoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1269,7 +1269,7 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Latinumcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1336,8 +1336,8 @@ Dirección: %4</translation>
 <context>
     <name>QObject</name>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1352,8 +1352,8 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduce una dirección Bitcoin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introduce una dirección Latinumcoin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1474,7 +1474,7 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Open the Bitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Latinumcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1482,7 +1482,7 @@ Dirección: %4</translation>
         <translation>Limpiar Consola</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin RPC console.</source>
+        <source>Welcome to the Latinumcoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1545,7 +1545,7 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Latinumcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1858,7 +1858,7 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
+        <source>Warning: Invalid Latinumcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1945,7 +1945,7 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
+        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Latinumcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1964,7 +1964,7 @@ Dirección: %4</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Latinumcoin Core is shutting down...</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1988,7 +1988,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <source>The address to sign the message with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduce una dirección Bitcoin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Introduce una dirección Latinumcoin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2019,7 +2019,7 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
+        <source>Sign the message to prove you own this Latinumcoin address</source>
         <translation>Firmar un mensjage para probar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -2044,10 +2044,10 @@ Dirección: %4</translation>
     </message>
     <message>
         <source>The address the message was signed with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduce una dirección Bitcoin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Introduce una dirección Latinumcoin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Latinumcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2059,8 +2059,8 @@ Dirección: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduce una dirección Bitcoin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introduce una dirección Latinumcoin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
@@ -2068,11 +2068,11 @@ Dirección: %4</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección Bitcoin valida.</translation>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección Latinumcoin valida.</translation>
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>Por favor, revise la dirección Bitcoin e inténtelo denuevo</translation>
+        <translation>Por favor, revise la dirección Latinumcoin e inténtelo denuevo</translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
@@ -2118,11 +2118,11 @@ Dirección: %4</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Latinumcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2656,7 +2656,7 @@ Dirección: %4</translation>
 </translation>
     </message>
     <message>
-        <source>Bitcoin Core RPC client version</source>
+        <source>Latinumcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2683,7 +2683,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Latinumcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2756,7 +2756,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2768,8 +2768,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>Precaución: -paytxfee es muy alta. Esta es la comisión que pagarás si envias una transacción.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bitcoin will not work properly.</source>
-        <translation>Precaución: Por favor revise que la fecha y hora de tu ordenador son correctas. Si tu reloj está mal configurado Bitcoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Latinumcoin will not work properly.</source>
+        <translation>Precaución: Por favor revise que la fecha y hora de tu ordenador son correctas. Si tu reloj está mal configurado Latinumcoin no funcionará correctamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2804,7 +2804,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core Daemon</source>
+        <source>Latinumcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3045,7 +3045,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>Importar bloques desde el archivo externo blk000??.dat </translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3109,7 +3109,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
+        <source>RPC SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3129,11 +3129,11 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Opciones SSL: (ver la Bitcoin Wiki para instrucciones de configuración SSL)</translation>
+        <source>SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
+        <translation>Opciones SSL: (ver la Latinumcoin Wiki para instrucciones de configuración SSL)</translation>
     </message>
     <message>
-        <source>Send command to Bitcoin Core</source>
+        <source>Send command to Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3169,7 +3169,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>Especifica tiempo de espera para conexion en milisegundos (predeterminado: 5000)</translation>
     </message>
     <message>
-        <source>Start Bitcoin Core Daemon</source>
+        <source>Start Latinumcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3296,12 +3296,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>Error cargando wallet.dat: Billetera corrupta</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin</source>
-        <translation>Error cargando wallet.dat: Billetera necesita una vercion reciente de Bitcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Latinumcoin</source>
+        <translation>Error cargando wallet.dat: Billetera necesita una vercion reciente de Latinumcoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin to complete</source>
-        <translation>La billetera necesita ser reescrita: reinicie Bitcoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart Latinumcoin to complete</source>
+        <translation>La billetera necesita ser reescrita: reinicie Latinumcoin para completar</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

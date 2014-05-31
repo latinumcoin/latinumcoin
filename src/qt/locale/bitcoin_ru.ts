@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>О Bitcoin Core</translation>
+        <source>About Latinumcoin Core</source>
+        <translation>О Latinumcoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Bitcoin Core&lt;/b&gt; version</source>
-        <translation>версия &lt;b&gt;Bitcoin Core&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Latinumcoin Core&lt;/b&gt; version</source>
+        <translation>версия &lt;b&gt;Latinumcoin Core&lt;/b&gt;</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Все права защищены</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Разработчики Bitcoin Core</translation>
+        <source>The Latinumcoin Core developers</source>
+        <translation>Разработчики Latinumcoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -103,12 +103,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Адреса получения</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Это ваши адреса Bitcoin для отправки платежей. Всегда проверяйте количество и адрес получателя перед отправкой перевода.</translation>
+        <source>These are your Latinumcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Это ваши адреса Latinumcoin для отправки платежей. Всегда проверяйте количество и адрес получателя перед отправкой перевода.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Это ваши адреса Bitcoin для приёма платежей. Рекомендуется использовать новый адрес получения для каждой транзакции.</translation>
+        <source>These are your Latinumcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Это ваши адреса Latinumcoin для приёма платежей. Рекомендуется использовать новый адрес получения для каждой транзакции.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -205,7 +205,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Подтвердите шифрование бумажника</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUMCOINS&lt;/b&gt;!</source>
         <translation>Внимание: если вы зашифруете бумажник и потеряете пароль, вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ ВАШИ БИТКОЙНЫ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -225,7 +225,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Бумажник зашифрован</translation>
     </message>
     <message>
-        <source>Bitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Latinumcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши биткойны от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -258,7 +258,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>LatinumcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>&amp;Подписать сообщение...</translation>
@@ -296,8 +296,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Закрыть приложение</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin</source>
-        <translation>Показать информацию о Bitcoin</translation>
+        <source>Show information about Latinumcoin</source>
+        <translation>Показать информацию о Latinumcoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -344,12 +344,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Идёт переиндексация блоков на диске...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Отправить монеты на указанный адрес Bitcoin</translation>
+        <source>Send coins to a Latinumcoin address</source>
+        <translation>Отправить монеты на указанный адрес Latinumcoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin</source>
-        <translation>Изменить параметры конфигурации Bitcoin</translation>
+        <source>Modify configuration options for Latinumcoin</source>
+        <translation>Изменить параметры конфигурации Latinumcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Проверить сообщение...</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -400,12 +400,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Зашифровать приватные ключи, принадлежащие вашему бумажнику</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Подписать сообщения вашим адресом Bitcoin, чтобы доказать, что вы им владеете</translation>
+        <source>Sign messages with your Latinumcoin addresses to prove you own them</source>
+        <translation>Подписать сообщения вашим адресом Latinumcoin, чтобы доказать, что вы им владеете</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Bitcoin</translation>
+        <source>Verify messages to ensure they were signed with specified Latinumcoin addresses</source>
+        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Latinumcoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -428,16 +428,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[тестовая сеть]</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Core</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Запросить платежи (создаёт QR-коды и bitcoin: ссылки)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;О Bitcoin Core</translation>
+        <source>&amp;About Latinumcoin Core</source>
+        <translation>&amp;О Latinumcoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -456,16 +456,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Опции командной строки</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Показать помощь по Bitcoin Core и получить список доступных опций командной строки.</translation>
+        <source>Show the Latinumcoin Core help message to get a list with possible Latinumcoin command-line options</source>
+        <translation>Показать помощь по Latinumcoin Core и получить список доступных опций командной строки.</translation>
     </message>
     <message>
-        <source>Bitcoin client</source>
-        <translation>Bitcoin клиент</translation>
+        <source>Latinumcoin client</source>
+        <translation>Latinumcoin клиент</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью Bitcoin</numerusform></translation>
+        <source>%n active connection(s) to Latinumcoin network</source>
+        <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью Latinumcoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -560,8 +560,8 @@ Address: %4
         <translation>Бумажник &lt;b&gt;зашифрован&lt;/b&gt; и в настоящее время &lt;b&gt;заблокирован&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. Bitcoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. Latinumcoin can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. Latinumcoin не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -845,8 +845,8 @@ Address: %4
         <translation>Введённый адрес «%1» уже находится в адресной книге.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным Bitcoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Latinumcoin address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным Latinumcoin-адресом.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -883,12 +883,12 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core - Command-line options</source>
-        <translation>Bitcoin Core - опции командной строки</translation>
+        <source>Latinumcoin Core - Command-line options</source>
+        <translation>Latinumcoin Core - опции командной строки</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -934,16 +934,16 @@ Address: %4
         <translation>Добро пожаловать</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Добро пожаловать в Bitcoin Core.</translation>
+        <source>Welcome to Latinumcoin Core.</source>
+        <translation>Добро пожаловать в Latinumcoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Так как вы впервые запустили программу, вы можете выбрать, где Bitcoin Core будет хранить данные.</translation>
+        <source>As this is the first time the program is launched, you can choose where Latinumcoin Core will store its data.</source>
+        <translation>Так как вы впервые запустили программу, вы можете выбрать, где Latinumcoin Core будет хранить данные.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core скачает и сохранит копию цепи блоков. Как минимум, %1ГБ данных будет храниться в этом каталоге, и со временем он будет расти. Бумажник будет также сохранён в этом каталоге.</translation>
+        <source>Latinumcoin Core will download and store a copy of the Latinumcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Latinumcoin Core скачает и сохранит копию цепи блоков. Как минимум, %1ГБ данных будет храниться в этом каталоге, и со временем он будет расти. Бумажник будет также сохранён в этом каталоге.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -954,8 +954,8 @@ Address: %4
         <translation>Использовать другой каталог данных:</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1016,12 +1016,12 @@ Address: %4
         <translation>Заплатить ко&amp;миссию</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin after logging in to the system.</source>
-        <translation>Автоматически запускать Bitcoin после входа в систему</translation>
+        <source>Automatically start Latinumcoin after logging in to the system.</source>
+        <translation>Автоматически запускать Latinumcoin после входа в систему</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin on system login</source>
-        <translation>&amp;Запускать Bitcoin при входе в систему</translation>
+        <source>&amp;Start Latinumcoin on system login</source>
+        <translation>&amp;Запускать Latinumcoin при входе в систему</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1036,8 +1036,8 @@ Address: %4
         <translation>Число потоков проверки &amp;сценария</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS proxy.</source>
-        <translation>Подключаться к сети Bitcoin через прокси SOCKS.</translation>
+        <source>Connect to the Latinumcoin network through a SOCKS proxy.</source>
+        <translation>Подключаться к сети Latinumcoin через прокси SOCKS.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1088,8 +1088,8 @@ Address: %4
         <translation>&amp;Тратить неподтверждённую сдачу</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Bitcoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the Latinumcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для Latinumcoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1144,8 +1144,8 @@ Address: %4
         <translation>&amp;Язык интерфейса:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Bitcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Latinumcoin.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Latinumcoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1156,8 +1156,8 @@ Address: %4
         <translation>Выберите единицу измерения монет при отображении и отправке.</translation>
     </message>
     <message>
-        <source>Whether to show Bitcoin addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса Bitcoin в списке транзакций.</translation>
+        <source>Whether to show Latinumcoin addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса Latinumcoin в списке транзакций.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1211,8 +1211,8 @@ Address: %4
         <translation>Форма</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Bitcoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Latinumcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Latinumcoin после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1266,8 +1266,8 @@ Address: %4
         <translation>Обработка URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>Не удалось разобрать URI! Это может быть связано с неверным адресом Bitcoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Latinumcoin address or malformed URI parameters.</source>
+        <translation>Не удалось разобрать URI! Это может быть связано с неверным адресом Latinumcoin или неправильными параметрами URI.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1333,8 +1333,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1349,8 +1349,8 @@ Address: %4
         <translation>Ошибка: неверная комбинация -regtest и -testnet.</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введите Bitcoin-адрес (например 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Введите Latinumcoin-адрес (например 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1471,16 +1471,16 @@ Address: %4
         <translation>Отладочный лог-файл</translation>
     </message>
     <message>
-        <source>Open the Bitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл Bitcoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the Latinumcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл Latinumcoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Очистить консоль</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль Bitcoin.</translation>
+        <source>Welcome to the Latinumcoin RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль Latinumcoin.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1542,8 +1542,8 @@ Address: %4
         <translation>&amp;Повторно использовать существующий адрес получения (не рекомендуется)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса. Заметьте: сообщение не будет отправлено вместе с платежом через сеть Bitcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Latinumcoin network.</source>
+        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса. Заметьте: сообщение не будет отправлено вместе с платежом через сеть Latinumcoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1855,8 +1855,8 @@ Address: %4
         <translation>Транзакция была отклонена! Такое может произойти, если некоторые монеты уже были потрачены, например, если Вы используете одну копию бумажника (wallet.dat), а монеты были потрачены из другой копии, но не были отмечены как потраченные в этой.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation>Внимание: неверный адрес Bitcoin</translation>
+        <source>Warning: Invalid Latinumcoin address</source>
+        <translation>Внимание: неверный адрес Latinumcoin</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1942,8 +1942,8 @@ Address: %4
         <translation>Введите метку для этого адреса, чтобы добавить его в список использованных</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>К bitcoin: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сеть Bitcoin.</translation>
+        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Latinumcoin network.</source>
+        <translation>К bitcoin: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сеть Latinumcoin.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -1961,8 +1961,8 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
-        <translation>Bitcoin Core выключается...</translation>
+        <source>Latinumcoin Core is shutting down...</source>
+        <translation>Latinumcoin Core выключается...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2016,8 +2016,8 @@ Address: %4
         <translation>Скопировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Bitcoin</translation>
+        <source>Sign the message to prove you own this Latinumcoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Latinumcoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2044,8 +2044,8 @@ Address: %4
         <translation>Адрес, которым было подписано сообщение (напр. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Bitcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Latinumcoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Latinumcoin</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2056,8 +2056,8 @@ Address: %4
         <translation>Сбросить все поля проверки сообщения</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введите адрес Bitcoin (напр. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Введите адрес Latinumcoin (напр. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
@@ -2115,12 +2115,12 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Core</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Разработчики Bitcoin Core</translation>
+        <source>The Latinumcoin Core developers</source>
+        <translation>Разработчики Latinumcoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2647,8 +2647,8 @@ Address: %4
         <translation>Принимать командную строку и команды JSON-RPC</translation>
     </message>
     <message>
-        <source>Bitcoin Core RPC client version</source>
-        <translation>Версия RPC-клиента Bitcoin Core</translation>
+        <source>Latinumcoin Core RPC client version</source>
+        <translation>Версия RPC-клиента Latinumcoin Core</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2672,7 +2672,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Latinumcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, вы должны установить опцию rpcpassword в конфигурационном файле:
  %s
@@ -2683,7 +2683,7 @@ rpcpassword=%s
 Имя и пароль ДОЛЖНЫ различаться.
 Если файл не существует, создайте его и установите права доступа только для владельца, только для чтения.
 Также рекомендуется включить alertnotify для оповещения о проблемах;
-Например: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
+Например: alertnotify=echo %%s | mail -s &quot;Latinumcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2755,8 +2755,8 @@ rpcpassword=%s
         <translation>Это пре-релизная тестовая сборка - используйте на свой страх и риск - не используйте для добычи или торговых приложений</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>Не удалось забиндиться на %s на этом компьютере. Возможно, Bitcoin Core уже запущен.</translation>
+        <source>Unable to bind to %s on this computer. Latinumcoin Core is probably already running.</source>
+        <translation>Не удалось забиндиться на %s на этом компьютере. Возможно, Latinumcoin Core уже запущен.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2767,8 +2767,8 @@ rpcpassword=%s
         <translation>Внимание: установлено очень большое значение -paytxfee. Это комиссия, которую вы заплатите при проведении транзакции.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bitcoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Bitcoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Latinumcoin will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Latinumcoin будет работать некорректно.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2803,8 +2803,8 @@ rpcpassword=%s
         <translation>Попытаться восстановить приватные ключи из повреждённого wallet.dat</translation>
     </message>
     <message>
-        <source>Bitcoin Core Daemon</source>
-        <translation>Демон Bitcoin Core</translation>
+        <source>Latinumcoin Core Daemon</source>
+        <translation>Демон Latinumcoin Core</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -3043,8 +3043,8 @@ rpcpassword=%s
         <translation>Импортировать блоки из внешнего файла blk000??.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>Не удалось установить блокировку на каталог данных %s. Возможно, Bitcoin Core уже запущен.</translation>
+        <source>Cannot obtain a lock on data directory %s. Latinumcoin Core is probably already running.</source>
+        <translation>Не удалось установить блокировку на каталог данных %s. Возможно, Latinumcoin Core уже запущен.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -3107,8 +3107,8 @@ rpcpassword=%s
         <translation>Печатать дерево блоков при запуске (по умолчанию: 0)</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Параметры RPC SSL: (см. Bitcoin вики для инструкций по настройке SSL)</translation>
+        <source>RPC SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
+        <translation>Параметры RPC SSL: (см. Latinumcoin вики для инструкций по настройке SSL)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3127,13 +3127,13 @@ rpcpassword=%s
         <translation>Запустить поток для периодического сохранения бумажника (по умолчанию: 1)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
         <translation>
-Параметры SSL: (см. Bitcoin Wiki для инструкций по настройке SSL)</translation>
+Параметры SSL: (см. Latinumcoin Wiki для инструкций по настройке SSL)</translation>
     </message>
     <message>
-        <source>Send command to Bitcoin Core</source>
-        <translation>Отправить команду Bitcoin Core</translation>
+        <source>Send command to Latinumcoin Core</source>
+        <translation>Отправить команду Latinumcoin Core</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -3168,8 +3168,8 @@ rpcpassword=%s
         <translation>Тайм-аут соединения в миллисекундах (по умолчанию: 5000)</translation>
     </message>
     <message>
-        <source>Start Bitcoin Core Daemon</source>
-        <translation>Запустить Bitcoin Core демон</translation>
+        <source>Start Latinumcoin Core Daemon</source>
+        <translation>Запустить Latinumcoin Core демон</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -3284,12 +3284,12 @@ rpcpassword=%s
         <translation>Ошибка загрузки wallet.dat: Бумажник поврежден</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Bitcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Latinumcoin</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Latinumcoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите Bitcoin для завершения операции.</translation>
+        <source>Wallet needed to be rewritten: restart Latinumcoin to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите Latinumcoin для завершения операции.</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

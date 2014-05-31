@@ -2,11 +2,11 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&lt;b&gt;Bitcoin Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Latinumcoin Core&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -27,7 +27,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Latinumcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -102,11 +102,11 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Latinumcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Latinumcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -204,8 +204,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <translation>Patvirtinkite piniginės užšifravimą</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO BITCOINUS&lt;/b&gt;! </translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUMCOINS&lt;/b&gt;!</source>
+        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO LATINUMCOINUS&lt;/b&gt;! </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -224,8 +224,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <translation>Piniginė užšifruota</translation>
     </message>
     <message>
-        <source>Bitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti bitcoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
+        <source>Latinumcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Latinumcoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti bitcoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -257,7 +257,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>LatinumcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>Pasirašyti ži&amp;nutę...</translation>
@@ -295,8 +295,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <translation>Išjungti programą</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin</source>
-        <translation>Rodyti informaciją apie Bitcoin</translation>
+        <source>Show information about Latinumcoin</source>
+        <translation>Rodyti informaciją apie Latinumcoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -343,11 +343,11 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <translation>Blokai iš naujo indeksuojami...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Siųsti monetas Bitcoin adresui</translation>
+        <source>Send coins to a Latinumcoin address</source>
+        <translation>Siųsti monetas Latinumcoin adresui</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin</source>
+        <source>Modify configuration options for Latinumcoin</source>
         <translation>Keisti bitcoin konfigūracijos galimybes</translation>
     </message>
     <message>
@@ -371,8 +371,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <translation>&amp;Tikrinti žinutę...</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -399,11 +399,11 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
+        <source>Sign messages with your Latinumcoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Latinumcoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -427,15 +427,15 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <translation>[testavimotinklas]</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin branduolys</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin branduolys</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -455,16 +455,16 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Latinumcoin Core help message to get a list with possible Latinumcoin command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin client</source>
-        <translation>Bitcoin klientas</translation>
+        <source>Latinumcoin client</source>
+        <translation>Latinumcoin klientas</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n Bitcoin tinklo aktyvus ryšys</numerusform><numerusform>%n Bitcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Bitcoin tinklo aktyvūs ryšiai</numerusform></translation>
+        <source>%n active connection(s) to Latinumcoin network</source>
+        <translation><numerusform>%n Latinumcoin tinklo aktyvus ryšys</numerusform><numerusform>%n Latinumcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Latinumcoin tinklo aktyvūs ryšiai</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -558,7 +558,7 @@ Adresas: %4</translation>
         <translation>Piniginė &lt;b&gt;užšifruota&lt;/b&gt; ir šiuo metu &lt;b&gt;užrakinta&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Latinumcoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -843,8 +843,8 @@ Adresas: %4</translation>
         <translation>Įvestas adresas „%1“ jau yra adresų knygelėje.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Bitcoin adresas.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Latinumcoin address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis Latinumcoin adresas.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -881,12 +881,12 @@ Adresas: %4</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core - Command-line options</source>
+        <source>Latinumcoin Core - Command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin branduolys</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin branduolys</translation>
     </message>
     <message>
         <source>version</source>
@@ -932,15 +932,15 @@ Adresas: %4</translation>
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Latinumcoin Core.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Latinumcoin Core will store its data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Latinumcoin Core will download and store a copy of the Latinumcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -952,8 +952,8 @@ Adresas: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1014,12 +1014,12 @@ Adresas: %4</translation>
         <translation>&amp;Mokėti sandorio mokestį</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin after logging in to the system.</source>
+        <source>Automatically start Latinumcoin after logging in to the system.</source>
         <translation>Automatiškai paleisti Bitkoin programą įjungus sistemą.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin on system login</source>
-        <translation>&amp;Paleisti Bitcoin programą su window sistemos paleidimu</translation>
+        <source>&amp;Start Latinumcoin on system login</source>
+        <translation>&amp;Paleisti Latinumcoin programą su window sistemos paleidimu</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1034,7 +1034,7 @@ Adresas: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS proxy.</source>
+        <source>Connect to the Latinumcoin network through a SOCKS proxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1086,8 +1086,8 @@ Adresas: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Bitcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the Latinumcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti Latinumcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1142,8 +1142,8 @@ Adresas: %4</translation>
         <translation>Naudotojo sąsajos &amp;kalba:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin.</source>
-        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Bitcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Latinumcoin.</source>
+        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Latinumcoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1154,7 +1154,7 @@ Adresas: %4</translation>
         <translation>Rodomų ir siunčiamų monetų kiekio matavimo vienetai</translation>
     </message>
     <message>
-        <source>Whether to show Bitcoin addresses in the transaction list or not.</source>
+        <source>Whether to show Latinumcoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1209,7 +1209,7 @@ Adresas: %4</translation>
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Latinumcoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1264,7 +1264,7 @@ Adresas: %4</translation>
         <translation>URI apdorojimas</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Latinumcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1331,8 +1331,8 @@ Adresas: %4</translation>
 <context>
     <name>QObject</name>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1347,7 +1347,7 @@ Adresas: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Įveskite bitkoinų adresą (pvz. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
@@ -1469,7 +1469,7 @@ Adresas: %4</translation>
         <translation>Derinimo žurnalo failas</translation>
     </message>
     <message>
-        <source>Open the Bitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Latinumcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1477,7 +1477,7 @@ Adresas: %4</translation>
         <translation>Išvalyti konsolę</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin RPC console.</source>
+        <source>Welcome to the Latinumcoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1540,7 +1540,7 @@ Adresas: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Latinumcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1853,7 +1853,7 @@ Adresas: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
+        <source>Warning: Invalid Latinumcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1940,7 +1940,7 @@ Adresas: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
+        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Latinumcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1959,7 +1959,7 @@ Adresas: %4</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Latinumcoin Core is shutting down...</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2014,7 +2014,7 @@ Adresas: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
+        <source>Sign the message to prove you own this Latinumcoin address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -2042,8 +2042,8 @@ Adresas: %4</translation>
         <translation>Įveskite bitkoinų adresą (pvz. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Bitcoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified Latinumcoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Latinumcoin adresas</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2054,7 +2054,7 @@ Adresas: %4</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Įveskite bitkoinų adresą (pvz. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
@@ -2113,11 +2113,11 @@ Adresas: %4</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin branduolys</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin branduolys</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Latinumcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2644,7 +2644,7 @@ Adresas: %4</translation>
         <translation>Priimti komandinę eilutę ir JSON-RPC komandas</translation>
     </message>
     <message>
-        <source>Bitcoin Core RPC client version</source>
+        <source>Latinumcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2669,7 +2669,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Latinumcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2742,7 +2742,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2754,8 +2754,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>Įspėjimas: -paytxfee yra nustatytas per didelis. Tai sandorio mokestis, kurį turėsite mokėti, jei siųsite sandorį.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bitcoin will not work properly.</source>
-        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas Bitcoin, veiks netinkamai.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Latinumcoin will not work properly.</source>
+        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas Latinumcoin, veiks netinkamai.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2790,7 +2790,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core Daemon</source>
+        <source>Latinumcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3030,7 +3030,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3094,7 +3094,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
+        <source>RPC SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3114,11 +3114,11 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL opcijos (žr.e Bitcoin Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
+        <translation>SSL opcijos (žr.e Latinumcoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
-        <source>Send command to Bitcoin Core</source>
+        <source>Send command to Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3154,7 +3154,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>Nustatyti sujungimo trukmę milisekundėmis (pagal nutylėjimą: 5000)</translation>
     </message>
     <message>
-        <source>Start Bitcoin Core Daemon</source>
+        <source>Start Latinumcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3270,12 +3270,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation> wallet.dat pakrovimo klaida,  wallet.dat sugadintas</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin</source>
-        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės Bitcoin versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Latinumcoin</source>
+        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės Latinumcoin versijos</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin to complete</source>
-        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite Bitcoin</translation>
+        <source>Wallet needed to be rewritten: restart Latinumcoin to complete</source>
+        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite Latinumcoin</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

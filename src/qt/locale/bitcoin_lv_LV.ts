@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Par Bitcoin Core</translation>
+        <source>About Latinumcoin Core</source>
+        <translation>Par Latinumcoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Bitcoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Bitcoin Core&lt;/b&gt; versija</translation>
+        <source>&lt;b&gt;Latinumcoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Latinumcoin Core&lt;/b&gt; versija</translation>
     </message>
     <message>
         <source>
@@ -23,8 +23,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Autortiesības</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core izstrādātāji</translation>
+        <source>The Latinumcoin Core developers</source>
+        <translation>Latinumcoin Core izstrādātāji</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -98,11 +98,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Saņemšanas adreses</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Latinumcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Latinumcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -200,7 +200,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Apstiprināt maciņa šifrēšanu</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUMCOINS&lt;/b&gt;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -220,8 +220,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Maciņš nošifrēts</translation>
     </message>
     <message>
-        <source>Bitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst bitkoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
+        <source>Latinumcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Latinumcoin aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst bitkoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -253,7 +253,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>LatinumcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>Parakstīt &amp;ziņojumu...</translation>
@@ -291,8 +291,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Aizvērt programmu</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin</source>
-        <translation>Parādīt informāciju par Bitcoin</translation>
+        <source>Show information about Latinumcoin</source>
+        <translation>Parādīt informāciju par Latinumcoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -339,12 +339,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Bloku reindeksēšana no diska...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Nosūtīt bitkoinus uz Bitcoin adresi</translation>
+        <source>Send coins to a Latinumcoin address</source>
+        <translation>Nosūtīt bitkoinus uz Latinumcoin adresi</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin</source>
-        <translation>Mainīt Bitcoin konfigurācijas uzstādījumus</translation>
+        <source>Modify configuration options for Latinumcoin</source>
+        <translation>Mainīt Latinumcoin konfigurācijas uzstādījumus</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -367,8 +367,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Pārbaudīt ziņojumu...</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -395,12 +395,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Šifrēt privātās atslēgas kuras pieder tavam maciņam</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Parakstīt ziņojumus ar savām Bitcoin adresēm lai pierādītu ka tās pieder tev</translation>
+        <source>Sign messages with your Latinumcoin addresses to prove you own them</source>
+        <translation>Parakstīt ziņojumus ar savām Latinumcoin adresēm lai pierādītu ka tās pieder tev</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Bitcoin adresēm</translation>
+        <source>Verify messages to ensure they were signed with specified Latinumcoin addresses</source>
+        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Latinumcoin adresēm</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -423,16 +423,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Core</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>Par &amp;Bitcoin Core</translation>
+        <source>&amp;About Latinumcoin Core</source>
+        <translation>Par &amp;Latinumcoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -451,16 +451,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Komandrindas iespējas</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Latinumcoin Core help message to get a list with possible Latinumcoin command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin client</source>
-        <translation>Bitcoin klients</translation>
+        <source>Latinumcoin client</source>
+        <translation>Latinumcoin klients</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktīvu savienojumu ar Bitcoin tīklu</numerusform><numerusform>%n aktīvs savienojums ar Bitcoin tīklu</numerusform><numerusform>%n aktīvu savienojumu as Bitcoin tīklu</numerusform></translation>
+        <source>%n active connection(s) to Latinumcoin network</source>
+        <translation><numerusform>%n aktīvu savienojumu ar Latinumcoin tīklu</numerusform><numerusform>%n aktīvs savienojums ar Latinumcoin tīklu</numerusform><numerusform>%n aktīvu savienojumu as Latinumcoin tīklu</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -555,7 +555,7 @@ Adrese: %4
         <translation>Maciņš ir &lt;b&gt;šifrēts&lt;/b&gt; un pašlaik &lt;b&gt;slēgts&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Latinumcoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -570,7 +570,7 @@ Adrese: %4
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Control Address Selection</source>
-        <translation>Bitcoin Kontroles Adrešu Atlase</translation>
+        <translation>Latinumcoin Kontroles Adrešu Atlase</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -840,8 +840,8 @@ Adrese: %4
         <translation>Nupat ierakstītā adrese &quot;%1&quot; jau atrodas adrešu grāmatā.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
-        <translation>Ierakstītā adrese &quot;%1&quot; nav derīga Bitcoin adrese.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Latinumcoin address.</source>
+        <translation>Ierakstītā adrese &quot;%1&quot; nav derīga Latinumcoin adrese.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -878,12 +878,12 @@ Adrese: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core - Command-line options</source>
-        <translation>Bitcoin Core - Komandrindas iespējas</translation>
+        <source>Latinumcoin Core - Command-line options</source>
+        <translation>Latinumcoin Core - Komandrindas iespējas</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -929,15 +929,15 @@ Adrese: %4
         <translation>Sveiciens</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Sveicināts Bitcoin Core</translation>
+        <source>Welcome to Latinumcoin Core.</source>
+        <translation>Sveicināts Latinumcoin Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Latinumcoin Core will store its data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Latinumcoin Core will download and store a copy of the Latinumcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -949,8 +949,8 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1011,12 +1011,12 @@ Adrese: %4
         <translation>&amp;Maksāt par transakciju</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin after logging in to the system.</source>
-        <translation>Automātiski sākt Bitcoin pēc pieteikšanās sistēmā.</translation>
+        <source>Automatically start Latinumcoin after logging in to the system.</source>
+        <translation>Automātiski sākt Latinumcoin pēc pieteikšanās sistēmā.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin on system login</source>
-        <translation>&amp;Sākt Bitcoin reizē ar sistēmu</translation>
+        <source>&amp;Start Latinumcoin on system login</source>
+        <translation>&amp;Sākt Latinumcoin reizē ar sistēmu</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1031,7 +1031,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS proxy.</source>
+        <source>Connect to the Latinumcoin network through a SOCKS proxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1083,8 +1083,8 @@ Adrese: %4
         <translation>&amp;Tērēt neapstiprinātu atlikumu</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt Bitcoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <source>Automatically open the Latinumcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Uz rūtera automātiski atvērt Latinumcoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1139,8 +1139,8 @@ Adrese: %4
         <translation>Lietotāja interfeiss un &amp;valoda:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin.</source>
-        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc Bitcoin pārstartēšanas.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Latinumcoin.</source>
+        <translation>Šeit var iestatīt lietotāja valodu. Iestatījums aktivizēsies pēc Latinumcoin pārstartēšanas.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1151,8 +1151,8 @@ Adrese: %4
         <translation>Izvēlēties dalījuma vienību pēc noklusēšanas, ko izmantot interfeisā un nosūtot bitkoinus.</translation>
     </message>
     <message>
-        <source>Whether to show Bitcoin addresses in the transaction list or not.</source>
-        <translation>Rādīt vai nē Bitcoin adreses transakciju sarakstā.</translation>
+        <source>Whether to show Latinumcoin addresses in the transaction list or not.</source>
+        <translation>Rādīt vai nē Latinumcoin adreses transakciju sarakstā.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1160,7 +1160,7 @@ Adrese: %4
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Vai rādīt Bitcoin kontroles funkcijas vai nē.</translation>
+        <translation>Vai rādīt Latinumcoin kontroles funkcijas vai nē.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -1206,8 +1206,8 @@ Adrese: %4
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Bitcoin tīklu, taču šis process vēl nav beidzies.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Latinumcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Latinumcoin tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1261,7 +1261,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Latinumcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1328,8 +1328,8 @@ Adrese: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1344,8 +1344,8 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Ierakstiet Bitcoin adresi (piem. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Ierakstiet Latinumcoin adresi (piem. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1466,7 +1466,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Open the Bitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Latinumcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1474,8 +1474,8 @@ Adrese: %4
         <translation>Notīrīt konsoli</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin RPC console.</source>
-        <translation>Laipni lūgti Bitcoin RPC konsolē.</translation>
+        <source>Welcome to the Latinumcoin RPC console.</source>
+        <translation>Laipni lūgti Latinumcoin RPC konsolē.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1537,7 +1537,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Latinumcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1691,7 +1691,7 @@ Adrese: %4
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Bitcoin Kontroles Funkcijas</translation>
+        <translation>Latinumcoin Kontroles Funkcijas</translation>
     </message>
     <message>
         <source>Inputs...</source>
@@ -1850,7 +1850,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
+        <source>Warning: Invalid Latinumcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1937,7 +1937,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
+        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Latinumcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1956,8 +1956,8 @@ Adrese: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
-        <translation>Bitcoin Core tiek izslēgta...</translation>
+        <source>Latinumcoin Core is shutting down...</source>
+        <translation>Latinumcoin Core tiek izslēgta...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2011,7 +2011,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
+        <source>Sign the message to prove you own this Latinumcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2039,7 +2039,7 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Latinumcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2051,8 +2051,8 @@ Adrese: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Ierakstiet Bitcoin adresi (piem. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Ierakstiet Latinumcoin adresi (piem. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
@@ -2110,12 +2110,12 @@ Adrese: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Core</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core izstrādātāji</translation>
+        <source>The Latinumcoin Core developers</source>
+        <translation>Latinumcoin Core izstrādātāji</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2641,7 +2641,7 @@ Adrese: %4
         <translation>Pieņemt komandrindas un JSON-RPC komandas</translation>
     </message>
     <message>
-        <source>Bitcoin Core RPC client version</source>
+        <source>Latinumcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2666,7 +2666,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Latinumcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2739,7 +2739,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2751,7 +2751,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bitcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Latinumcoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2787,8 +2787,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core Daemon</source>
-        <translation>Bitcoin Core Process</translation>
+        <source>Latinumcoin Core Daemon</source>
+        <translation>Latinumcoin Core Process</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -3027,7 +3027,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3091,7 +3091,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
+        <source>RPC SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3111,11 +3111,11 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Send command to Bitcoin Core</source>
+        <source>Send command to Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3151,7 +3151,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Start Bitcoin Core Daemon</source>
+        <source>Start Latinumcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3267,12 +3267,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>Nevar ielādēt wallet.dat: maciņš bojāts</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin</source>
-        <translation>Nevar ielādēt wallet.dat: maciņa atvēršanai nepieciešama jaunāka Bitcoin versija</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Latinumcoin</source>
+        <translation>Nevar ielādēt wallet.dat: maciņa atvēršanai nepieciešama jaunāka Latinumcoin versija</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin to complete</source>
-        <translation>Bija nepieciešams pārstartēt maciņu: pabeigšanai pārstartējiet Bitcoin</translation>
+        <source>Wallet needed to be rewritten: restart Latinumcoin to complete</source>
+        <translation>Bija nepieciešams pārstartēt maciņu: pabeigšanai pārstartējiet Latinumcoin</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

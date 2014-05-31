@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Om Bitcoin Core</translation>
+        <source>About Latinumcoin Core</source>
+        <translation>Om Latinumcoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Bitcoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Bitcoin Core&lt;/b&gt;-version</translation>
+        <source>&lt;b&gt;Latinumcoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Latinumcoin Core&lt;/b&gt;-version</translation>
     </message>
     <message>
         <source>
@@ -29,8 +29,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core-utvecklarna</translation>
+        <source>The Latinumcoin Core developers</source>
+        <translation>Latinumcoin Core-utvecklarna</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -104,12 +104,12 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
         <translation>Mottagaradresser</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina Bitcoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Bitcoins.</translation>
+        <source>These are your Latinumcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Detta är dina Latinumcoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Latinumcoins.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Detta är dina Bitcoin adresser för att ta emot betalningar. Det rekommenderas att använda en ny mottagningsadress för varje transaktion.</translation>
+        <source>These are your Latinumcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Detta är dina Latinumcoin adresser för att ta emot betalningar. Det rekommenderas att använda en ny mottagningsadress för varje transaktion.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -206,7 +206,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
         <translation>Bekräfta kryptering av plånbok</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUMCOINS&lt;/b&gt;!</source>
         <translation>VARNING: Om du krypterar din plånbok och glömmer ditt lösenord, kommer du att &lt;b&gt;FÖRLORA ALLA DINA TILLGÅNGAR&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -226,7 +226,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
         <translation>Plånboken är krypterad</translation>
     </message>
     <message>
-        <source>Bitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Latinumcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Programmet kommer nu att stänga ner för att färdigställa krypteringen. Tänk på att en krypterad plånbok inte skyddar mot stöld om din dator är infekterad med en keylogger.</translation>
     </message>
     <message>
@@ -259,7 +259,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>LatinumcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>Signera &amp;meddelande...</translation>
@@ -297,8 +297,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
         <translation>Avsluta programmet</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin</source>
-        <translation>Visa information om Bitcoin</translation>
+        <source>Show information about Latinumcoin</source>
+        <translation>Visa information om Latinumcoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -345,12 +345,12 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
         <translation>Återindexerar block på disken...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Skicka mynt till en Bitcoin-adress</translation>
+        <source>Send coins to a Latinumcoin address</source>
+        <translation>Skicka mynt till en Latinumcoin-adress</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin</source>
-        <translation>Ändra konfigurationsalternativ för Bitcoin</translation>
+        <source>Modify configuration options for Latinumcoin</source>
+        <translation>Ändra konfigurationsalternativ för Latinumcoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -373,8 +373,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
         <translation>&amp;Verifiera meddelande...</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -401,12 +401,12 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
         <translation>Kryptera de privata nycklar som tillhör din plånbok</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Bitcoinadress för att bevisa att du äger dem</translation>
+        <source>Sign messages with your Latinumcoin addresses to prove you own them</source>
+        <translation>Signera meddelanden med din Latinumcoinadress för att bevisa att du äger dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade Bitcoin-adressen</translation>
+        <source>Verify messages to ensure they were signed with specified Latinumcoin addresses</source>
+        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade Latinumcoin-adressen</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -429,16 +429,16 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Kärna</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Kärna</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Begär betalning (genererar QR-koder och bitcoin-URI)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Om Bitcoin Core</translation>
+        <source>&amp;About Latinumcoin Core</source>
+        <translation>&amp;Om Latinumcoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -457,16 +457,16 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
         <translation>&amp;Kommandoradsalternativ</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Visa Bitcoin Core hjälpmeddelande för att få en lista med möjliga Bitcoin kommandoradsalternativ.</translation>
+        <source>Show the Latinumcoin Core help message to get a list with possible Latinumcoin command-line options</source>
+        <translation>Visa Latinumcoin Core hjälpmeddelande för att få en lista med möjliga Latinumcoin kommandoradsalternativ.</translation>
     </message>
     <message>
-        <source>Bitcoin client</source>
-        <translation>Bitcoin-klient</translation>
+        <source>Latinumcoin client</source>
+        <translation>Latinumcoin-klient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktiv anslutning till Bitcoin-nätverket</numerusform><numerusform>%n aktiva anslutningar till Bitcoin-nätverket</numerusform></translation>
+        <source>%n active connection(s) to Latinumcoin network</source>
+        <translation><numerusform>%n aktiv anslutning till Latinumcoin-nätverket</numerusform><numerusform>%n aktiva anslutningar till Latinumcoin-nätverket</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -561,8 +561,8 @@ Adress: %4
         <translation>Denna plånbok är &lt;b&gt;krypterad&lt;/b&gt; och för närvarande &lt;b&gt;låst&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Ett allvarligt fel har uppstått. Bitcoin kan inte längre köras säkert och kommer att avslutas.</translation>
+        <source>A fatal error occurred. Latinumcoin can no longer continue safely and will quit.</source>
+        <translation>Ett allvarligt fel har uppstått. Latinumcoin kan inte längre köras säkert och kommer att avslutas.</translation>
     </message>
 </context>
 <context>
@@ -846,8 +846,8 @@ Adress: %4
         <translation>Den angivna adressen &quot;%1&quot; finns redan i adressboken.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
-        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig Bitcoin-adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Latinumcoin address.</source>
+        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig Latinumcoin-adress.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -884,12 +884,12 @@ Adress: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core - Command-line options</source>
-        <translation>Bitcoin Core - Kommandoradsalternativ</translation>
+        <source>Latinumcoin Core - Command-line options</source>
+        <translation>Latinumcoin Core - Kommandoradsalternativ</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Kärna</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Kärna</translation>
     </message>
     <message>
         <source>version</source>
@@ -935,16 +935,16 @@ Adress: %4
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Välkommen till Bitcoin Core.</translation>
+        <source>Welcome to Latinumcoin Core.</source>
+        <translation>Välkommen till Latinumcoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Eftersom detta är första gången programmet startas får du välja var Bitcoin Core skall lagra sitt data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Latinumcoin Core will store its data.</source>
+        <translation>Eftersom detta är första gången programmet startas får du välja var Latinumcoin Core skall lagra sitt data.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core kommer att ladda ner och spara en kopia av Bitcoin blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
+        <source>Latinumcoin Core will download and store a copy of the Latinumcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Latinumcoin Core kommer att ladda ner och spara en kopia av Latinumcoin blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -955,8 +955,8 @@ Adress: %4
         <translation>Använd en anpassad datakatalog:</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1017,12 +1017,12 @@ Adress: %4
         <translation>Betala överförings&amp;avgift</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin after logging in to the system.</source>
-        <translation>Starta Bitcoin automatiskt efter inloggning.</translation>
+        <source>Automatically start Latinumcoin after logging in to the system.</source>
+        <translation>Starta Latinumcoin automatiskt efter inloggning.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin on system login</source>
-        <translation>&amp;Starta Bitcoin vid systemstart</translation>
+        <source>&amp;Start Latinumcoin on system login</source>
+        <translation>&amp;Starta Latinumcoin vid systemstart</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1037,8 +1037,8 @@ Adress: %4
         <translation>Antalet skript &amp; verifikationstrådar</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS proxy.</source>
-        <translation>Anslut till Bitcoin-nätverket genom en SOCKS-proxy.</translation>
+        <source>Connect to the Latinumcoin network through a SOCKS proxy.</source>
+        <translation>Anslut till Latinumcoin-nätverket genom en SOCKS-proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1089,8 +1089,8 @@ Adress: %4
         <translation>&amp;Spendera okonfirmerad växel</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Bitcoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
+        <source>Automatically open the Latinumcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt Latinumcoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1145,8 +1145,8 @@ Adress: %4
         <translation>Användargränssnittets &amp;språk: </translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av Bitcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Latinumcoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av Latinumcoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1157,8 +1157,8 @@ Adress: %4
         <translation>Välj en måttenhet att visa när du skickar mynt.</translation>
     </message>
     <message>
-        <source>Whether to show Bitcoin addresses in the transaction list or not.</source>
-        <translation>Anger om Bitcoin-adresser skall visas i transaktionslistan.</translation>
+        <source>Whether to show Latinumcoin addresses in the transaction list or not.</source>
+        <translation>Anger om Latinumcoin-adresser skall visas i transaktionslistan.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1212,8 +1212,8 @@ Adress: %4
         <translation>Formulär</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Bitcoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Latinumcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Latinumcoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1267,8 +1267,8 @@ Adress: %4
         <translation>URI hantering</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Bitcoin-adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Latinumcoin address or malformed URI parameters.</source>
+        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Latinumcoin-adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1334,8 +1334,8 @@ Adress: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1350,8 +1350,8 @@ Adress: %4
         <translation>Fel: Felaktig kombination av -regtest och -testnet.</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Ange en Bitcoin-adress (t.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Ange en Latinumcoin-adress (t.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1472,16 +1472,16 @@ Adress: %4
         <translation>Debugloggfil</translation>
     </message>
     <message>
-        <source>Open the Bitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Bitcoin debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
+        <source>Open the Latinumcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna Latinumcoin debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Rensa konsollen</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin RPC console.</source>
-        <translation>Välkommen till Bitcoin RPC-konsollen.</translation>
+        <source>Welcome to the Latinumcoin RPC console.</source>
+        <translation>Välkommen till Latinumcoin RPC-konsollen.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1543,8 +1543,8 @@ Adress: %4
         <translation>Åt&amp;eranvänd en existerande mottagningsadress (rekommenderas inte)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Ett frivilligt meddelande att bifoga betalningsbegäran, vilket visas när begäran öppnas. NB: Meddelandet kommer inte att sändas med betalningen över Bitcoinnätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Latinumcoin network.</source>
+        <translation>Ett frivilligt meddelande att bifoga betalningsbegäran, vilket visas när begäran öppnas. NB: Meddelandet kommer inte att sändas med betalningen över Latinumcoinnätverket.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1856,8 +1856,8 @@ Adress: %4
         <translation>Transaktionen avslogs! Detta kan hända om några av mynten i plånboken redan spenderats, t.ex om du använt en kopia av wallet.dat och mynt spenderades i kopian men inte markerats som spenderade här.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation>Varning: Felaktig Bitcoinadress</translation>
+        <source>Warning: Invalid Latinumcoin address</source>
+        <translation>Varning: Felaktig Latinumcoinadress</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1943,8 +1943,8 @@ Adress: %4
         <translation>Ange en etikett för denna adress att adderas till listan över använda adresser</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Ett meddelande som bifogades bitcoin-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas över Bitcoinnätverket.</translation>
+        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Latinumcoin network.</source>
+        <translation>Ett meddelande som bifogades bitcoin-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas över Latinumcoinnätverket.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -1962,8 +1962,8 @@ Adress: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
-        <translation>Bitcoin Core stängs av...</translation>
+        <source>Latinumcoin Core is shutting down...</source>
+        <translation>Latinumcoin Core stängs av...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2017,7 +2017,7 @@ Adress: %4
         <translation>Kopiera signaturen till systemets Urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
+        <source>Sign the message to prove you own this Latinumcoin address</source>
         <translation>Signera meddelandet för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -2045,8 +2045,8 @@ Adress: %4
         <translation>Adressen som meddelandet var signerat med  (t.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Bitcoin-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Latinumcoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Latinumcoin-adressen</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2057,8 +2057,8 @@ Adress: %4
         <translation>Rensa alla fält</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Ange en Bitcoin-adress (t.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Ange en Latinumcoin-adress (t.ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
@@ -2116,12 +2116,12 @@ Adress: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Kärna</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Kärna</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core-utvecklarna</translation>
+        <source>The Latinumcoin Core developers</source>
+        <translation>Latinumcoin Core-utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2647,8 +2647,8 @@ Adress: %4
         <translation>Tillåt kommandon från kommandotolken och JSON-RPC-kommandon</translation>
     </message>
     <message>
-        <source>Bitcoin Core RPC client version</source>
-        <translation>Bitcoin Core RPC-klient version</translation>
+        <source>Latinumcoin Core RPC client version</source>
+        <translation>Latinumcoin Core RPC-klient version</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2672,7 +2672,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Latinumcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du behöver sätta ett rpclösensord i konfigurationsfilen:
 %s
@@ -2683,7 +2683,7 @@ rpcpassword=%s
 Användarnamnet och lösenordet FÅR INTE bara detsamma.
 Om filen inte existerar, skapa den med enbart ägarläsbara filrättigheter.
 Det är också rekommenderat att sätta alertnotify så du meddelas om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;Latinumcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2755,8 +2755,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo
         <translation>Detta är ett förhands testbygge - använd på egen risk - använd inte för mining eller handels applikationer</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>Det går inte att binda till %s på den här datorn. Bitcoin Core är förmodligen redan igång.</translation>
+        <source>Unable to bind to %s on this computer. Latinumcoin Core is probably already running.</source>
+        <translation>Det går inte att binda till %s på den här datorn. Latinumcoin Core är förmodligen redan igång.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2767,8 +2767,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo
         <translation>Varning: -paytxfee är satt väldigt hög! Detta är avgiften du kommer betala för varje transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bitcoin will not work properly.</source>
-        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Bitcoin inte fungera korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Latinumcoin will not work properly.</source>
+        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Latinumcoin inte fungera korrekt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2803,8 +2803,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo
         <translation>Försök att rädda de privata nycklarna från en korrupt wallet.dat</translation>
     </message>
     <message>
-        <source>Bitcoin Core Daemon</source>
-        <translation>Bitcoin Core tjänsten</translation>
+        <source>Latinumcoin Core Daemon</source>
+        <translation>Latinumcoin Core tjänsten</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -3043,8 +3043,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo
         <translation>Importerar block från extern blk000??.dat fil</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>Kan inte låsa data-mappen %s. Bitcoin Core körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. Latinumcoin Core is probably already running.</source>
+        <translation>Kan inte låsa data-mappen %s. Latinumcoin Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -3107,8 +3107,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo
         <translation>Skriv ut blockträdet vid uppstart (förvalt: 0)</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>RPC SSL optioner: (se Bitcoin Wiki för SSL inställningsinstruktioner)</translation>
+        <source>RPC SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
+        <translation>RPC SSL optioner: (se Latinumcoin Wiki för SSL inställningsinstruktioner)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3127,12 +3127,12 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo
         <translation>Kör en tråd för att tömma plånboken periodiskt (förvalt: 1)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-inställningar: (se Bitcoin-wikin för SSL-setup instruktioner)</translation>
+        <source>SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-inställningar: (se Latinumcoin-wikin för SSL-setup instruktioner)</translation>
     </message>
     <message>
-        <source>Send command to Bitcoin Core</source>
-        <translation>Sänd kommando till Bitcoin Core</translation>
+        <source>Send command to Latinumcoin Core</source>
+        <translation>Sänd kommando till Latinumcoin Core</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -3167,8 +3167,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo
         <translation>Ange timeout för uppkoppling i millisekunder (förvalt: 5000)</translation>
     </message>
     <message>
-        <source>Start Bitcoin Core Daemon</source>
-        <translation>Starta Bitcoin Core tjänsten</translation>
+        <source>Start Latinumcoin Core Daemon</source>
+        <translation>Starta Latinumcoin Core tjänsten</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -3283,12 +3283,12 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo
         <translation>Fel vid inläsningen av wallet.dat: Plånboken är skadad</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin</source>
-        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av Bitcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Latinumcoin</source>
+        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av Latinumcoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin to complete</source>
-        <translation>Plånboken behöver skrivas om: Starta om Bitcoin för att färdigställa</translation>
+        <source>Wallet needed to be rewritten: restart Latinumcoin to complete</source>
+        <translation>Plånboken behöver skrivas om: Starta om Latinumcoin för att färdigställa</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

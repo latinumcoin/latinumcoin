@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>O jedru Bitcoina</translation>
+        <source>About Latinumcoin Core</source>
+        <translation>O jedru Latinumcoina</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Bitcoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Jedro Bitcoina&lt;/b&gt; različica</translation>
+        <source>&lt;b&gt;Latinumcoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Jedro Latinumcoina&lt;/b&gt; različica</translation>
     </message>
     <message>
         <source>
@@ -23,7 +23,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Latinumcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -98,12 +98,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Prejemati naslovi</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Latinumcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To so vaši Bitcoin naslovi za prejemanje plačil. Priporočljivo je uporabljati nov prejemni naslov za vsako izmed transakcij.</translation>
+        <source>These are your Latinumcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To so vaši Latinumcoin naslovi za prejemanje plačil. Priporočljivo je uporabljati nov prejemni naslov za vsako izmed transakcij.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -200,7 +200,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Potrdi šifriranje denarnice</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUMCOINS&lt;/b&gt;!</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -220,8 +220,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Denarnica šifrirana</translation>
     </message>
     <message>
-        <source>Bitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin se bo zaprl, da bi dokončal proces šifriranja. Zapomnite si, da šifriranje vaše denarnice ne more popolnoma zaščititi pred krajami zlonamernih programov, ki bi lahko bili nameščeni na vašem računalniku.</translation>
+        <source>Latinumcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Latinumcoin se bo zaprl, da bi dokončal proces šifriranja. Zapomnite si, da šifriranje vaše denarnice ne more popolnoma zaščititi pred krajami zlonamernih programov, ki bi lahko bili nameščeni na vašem računalniku.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -253,7 +253,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>LatinumcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>Podpiši &amp;sporočilo ...</translation>
@@ -291,8 +291,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Izhod iz aplikacije</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin</source>
-        <translation>Pokaži informacije o Bitcoinu</translation>
+        <source>Show information about Latinumcoin</source>
+        <translation>Pokaži informacije o Latinumcoinu</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -339,11 +339,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Poustvarjam kazalo blokov na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Pošlji kovance na Bitcoin naslov</translation>
+        <source>Send coins to a Latinumcoin address</source>
+        <translation>Pošlji kovance na Latinumcoin naslov</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin</source>
+        <source>Modify configuration options for Latinumcoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -367,8 +367,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>%Preveri sporočilo ...</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -395,11 +395,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Šifiraj zasebne ključe v moji denarnici</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Za dokaz, da ste lastniki sporočil, se podpišite z Bitcoin naslovom</translation>
+        <source>Sign messages with your Latinumcoin addresses to prove you own them</source>
+        <translation>Za dokaz, da ste lastniki sporočil, se podpišite z Latinumcoin naslovom</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Latinumcoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -423,16 +423,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Jedro Bitcoina</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Jedro Latinumcoina</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;O jedru Bitcoina</translation>
+        <source>&amp;About Latinumcoin Core</source>
+        <translation>&amp;O jedru Latinumcoina</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -444,22 +444,22 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation>Odpri Bitcoin: URI ali zahteva o plačilu</translation>
+        <translation>Odpri Latinumcoin: URI ali zahteva o plačilu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Latinumcoin Core help message to get a list with possible Latinumcoin command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin client</source>
-        <translation>Bitcoin odjemalec</translation>
+        <source>Latinumcoin client</source>
+        <translation>Latinumcoin odjemalec</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
+        <source>%n active connection(s) to Latinumcoin network</source>
         <translation><numerusform>%n aktivna povezava v bitcoin omrežje</numerusform><numerusform>%n aktivni povezavi v bitcoin omrežje</numerusform><numerusform>%n aktivnih povezav v bitcoin omrežje</numerusform><numerusform>%n aktivnih povezav v bitcoin omrežje</numerusform></translation>
     </message>
     <message>
@@ -555,7 +555,7 @@ Naslov: %4
         <translation>Denarnica je &lt;b&gt;šifrirana&lt;/b&gt; in trenutno &lt;b&gt;zaklenjena&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Latinumcoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -840,8 +840,8 @@ Naslov: %4
         <translation>Vnešeni naslov &quot;&amp;1&quot; je že v imeniku.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
-        <translation>Vnešeni naslov &quot;%1&quot; ni veljaven Bitcoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Latinumcoin address.</source>
+        <translation>Vnešeni naslov &quot;%1&quot; ni veljaven Latinumcoin naslov.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -878,12 +878,12 @@ Naslov: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core - Command-line options</source>
+        <source>Latinumcoin Core - Command-line options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Jedro Bitcoina</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Jedro Latinumcoina</translation>
     </message>
     <message>
         <source>version</source>
@@ -929,15 +929,15 @@ Naslov: %4
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Dobrodošli v jedru Bitcoina</translation>
+        <source>Welcome to Latinumcoin Core.</source>
+        <translation>Dobrodošli v jedru Latinumcoina</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Latinumcoin Core will store its data.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Latinumcoin Core will download and store a copy of the Latinumcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -949,8 +949,8 @@ Naslov: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1011,12 +1011,12 @@ Naslov: %4
         <translation>Nakazilo plačila &amp; provizija</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin after logging in to the system.</source>
-        <translation>Po prijavi v sistem samodejno zaženite Bitcoin.</translation>
+        <source>Automatically start Latinumcoin after logging in to the system.</source>
+        <translation>Po prijavi v sistem samodejno zaženite Latinumcoin.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin on system login</source>
-        <translation>&amp;Zaženi Bitcoin ob prijavi v sistem</translation>
+        <source>&amp;Start Latinumcoin on system login</source>
+        <translation>&amp;Zaženi Latinumcoin ob prijavi v sistem</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1031,7 +1031,7 @@ Naslov: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS proxy.</source>
+        <source>Connect to the Latinumcoin network through a SOCKS proxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1083,7 +1083,7 @@ Naslov: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Latinumcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1139,7 +1139,7 @@ Naslov: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Latinumcoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1151,7 +1151,7 @@ Naslov: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Whether to show Bitcoin addresses in the transaction list or not.</source>
+        <source>Whether to show Latinumcoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1206,8 +1206,8 @@ Naslov: %4
         <translation>Oblika</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazanim podatkom je lahko potekel rok. Vaša denarnica bo po vzpostavitvi povezave samodejno sinhronizirana z Bitcoin omrežjem, ampak ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Latinumcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazanim podatkom je lahko potekel rok. Vaša denarnica bo po vzpostavitvi povezave samodejno sinhronizirana z Latinumcoin omrežjem, ampak ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1261,7 +1261,7 @@ Naslov: %4
         <translation>Rokovanje z URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Latinumcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1328,8 +1328,8 @@ Naslov: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1344,7 +1344,7 @@ Naslov: %4
         <translation>Napaka: Neveljavna kombinacija -regtest and -testnet</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Vnesite bitcoin naslov (npr.: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
@@ -1466,7 +1466,7 @@ Naslov: %4
         <translation>Razhroščevalna dnevniška datoteka</translation>
     </message>
     <message>
-        <source>Open the Bitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Latinumcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1474,7 +1474,7 @@ Naslov: %4
         <translation>Počisti konzolo</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin RPC console.</source>
+        <source>Welcome to the Latinumcoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1537,7 +1537,7 @@ Naslov: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Latinumcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1850,8 +1850,8 @@ Naslov: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation>Opozorilo: Neveljaven Bitcoin naslov</translation>
+        <source>Warning: Invalid Latinumcoin address</source>
+        <translation>Opozorilo: Neveljaven Latinumcoin naslov</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1937,7 +1937,7 @@ Naslov: %4
         <translation>Vnesite oznako za ta naslov, ki bo shranjena v seznam uporabljenih naslovov</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
+        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Latinumcoin network.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1956,7 +1956,7 @@ Naslov: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Latinumcoin Core is shutting down...</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2011,7 +2011,7 @@ Naslov: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
+        <source>Sign the message to prove you own this Latinumcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2039,7 +2039,7 @@ Naslov: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Latinumcoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2051,7 +2051,7 @@ Naslov: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Vnesite bitcoin naslov (npr.: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
@@ -2110,11 +2110,11 @@ Naslov: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Jedro Bitcoina</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Jedro Latinumcoina</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Latinumcoin Core developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2641,7 +2641,7 @@ Naslov: %4
         <translation>Sprejmi ukaze iz ukazne vrstice in JSON-RPC</translation>
     </message>
     <message>
-        <source>Bitcoin Core RPC client version</source>
+        <source>Latinumcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2666,7 +2666,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Latinumcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2739,7 +2739,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>To je pred izdana poizkusna verzija - uporaba na lastno odgovornost - ne uporabljajte je za rudarstvo ali trgovske aplikacije</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2751,7 +2751,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bitcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Latinumcoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2787,7 +2787,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core Daemon</source>
+        <source>Latinumcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3027,7 +3027,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3091,7 +3091,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
+        <source>RPC SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3111,11 +3111,11 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL možnosti: (glejte Bitcoin Wiki za navodla, kako nastaviti SSL)</translation>
+        <source>SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
+        <translation>SSL možnosti: (glejte Latinumcoin Wiki za navodla, kako nastaviti SSL)</translation>
     </message>
     <message>
-        <source>Send command to Bitcoin Core</source>
+        <source>Send command to Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3151,7 +3151,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Start Bitcoin Core Daemon</source>
+        <source>Start Latinumcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3267,12 +3267,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
         <translation>Napaka pri nalaganju wallet.dat: denarnica pokvarjena</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo različico Bitcoina</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Latinumcoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo različico Latinumcoina</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno zaženite Bitcoin za doknčanje</translation>
+        <source>Wallet needed to be rewritten: restart Latinumcoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno zaženite Latinumcoin za doknčanje</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

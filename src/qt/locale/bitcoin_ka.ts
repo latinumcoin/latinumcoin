@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Bitcoin Core-ს შესახებ</translation>
+        <source>About Latinumcoin Core</source>
+        <translation>Latinumcoin Core-ს შესახებ</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Bitcoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Bitcoin Core&lt;/b&gt;-ს ვერსია</translation>
+        <source>&lt;b&gt;Latinumcoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Latinumcoin Core&lt;/b&gt;-ს ვერსია</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>საავტორო უფლებები</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core-ს ავტორები</translation>
+        <source>The Latinumcoin Core developers</source>
+        <translation>Latinumcoin Core-ს ავტორები</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -103,12 +103,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>მიღების მისამართი</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>ეს არის თქვენი Bitcoin-მისამართები გადახდების შესასრულებლად. მონეტების გაგზავნამდე ყოველთვის შეამოწმეთ თანხა და მიმღების მისამართი.</translation>
+        <source>These are your Latinumcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>ეს არის თქვენი Latinumcoin-მისამართები გადახდების შესასრულებლად. მონეტების გაგზავნამდე ყოველთვის შეამოწმეთ თანხა და მიმღების მისამართი.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>ეს არის თქვენი Bitcoin-მისამართები გადახდების მისაღებად. რეკომენდებულია ყოველი ტრანსაქციისათვის ახალი მიღების მისამართის გამოყენება.</translation>
+        <source>These are your Latinumcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>ეს არის თქვენი Latinumcoin-მისამართები გადახდების მისაღებად. რეკომენდებულია ყოველი ტრანსაქციისათვის ახალი მიღების მისამართის გამოყენება.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -205,7 +205,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>დაადასტურეთ საფულის დაშიფრვა</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LATINUMCOINS&lt;/b&gt;!</source>
         <translation>ყურადღება: საფულის დაშიფრვის შემდეგ თუ თქვენ დაკარგავთ ფრაზა-პაროლს,  &lt;b&gt;ყველა ბიტქოინი დაგეკარგებათ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -225,8 +225,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>საფულე დაშიფრულია</translation>
     </message>
     <message>
-        <source>Bitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>ახლა Bitcoin დაიხურება დაშიფრვის პროცესის დასასრულებლად. გაითვალისწინეთ, რომ დაშიფრვა სრულად ვერ დაიცავს თქვენს ბითქოინებს თქვენს კომპიუტერში შემოპარული მავნე პროგრამების საშუალებით დატაცებისაგან.</translation>
+        <source>Latinumcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>ახლა Latinumcoin დაიხურება დაშიფრვის პროცესის დასასრულებლად. გაითვალისწინეთ, რომ დაშიფრვა სრულად ვერ დაიცავს თქვენს ბითქოინებს თქვენს კომპიუტერში შემოპარული მავნე პროგრამების საშუალებით დატაცებისაგან.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -258,7 +258,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
 </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>LatinumcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>ხელ&amp;მოწერა</translation>
@@ -296,8 +296,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>გასვლა</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin</source>
-        <translation>ინფორმაცია Bitcoin-ის შესახებ</translation>
+        <source>Show information about Latinumcoin</source>
+        <translation>ინფორმაცია Latinumcoin-ის შესახებ</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -344,12 +344,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>დისკზე ბლოკების რეინდექსაცია...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>მონეტების გაგზავნა Bitcoin-მისამართზე</translation>
+        <source>Send coins to a Latinumcoin address</source>
+        <translation>მონეტების გაგზავნა Latinumcoin-მისამართზე</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin</source>
-        <translation>Bitcoin-ის საკონფიგურაციო პარამეტრების ცვლილება</translation>
+        <source>Modify configuration options for Latinumcoin</source>
+        <translation>Latinumcoin-ის საკონფიგურაციო პარამეტრების ცვლილება</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;ვერიფიკაცია</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -400,12 +400,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>თქვენი საფულის პირადი გასაღებების დაშიფრვა</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>მესიჯებზე ხელმოწერა თქვენი Bitcoin-მისამართებით იმის დასტურად, რომ ის თქვენია</translation>
+        <source>Sign messages with your Latinumcoin addresses to prove you own them</source>
+        <translation>მესიჯებზე ხელმოწერა თქვენი Latinumcoin-მისამართებით იმის დასტურად, რომ ის თქვენია</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>შეამოწმეთ, რომ მესიჯები ხელმოწერილია მითითებული Bitcoin-მისამართით</translation>
+        <source>Verify messages to ensure they were signed with specified Latinumcoin addresses</source>
+        <translation>შეამოწმეთ, რომ მესიჯები ხელმოწერილია მითითებული Latinumcoin-მისამართით</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -428,16 +428,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Core</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>გადახდის მოთხოვნა (შეიქმნება QR-კოდები და bitcoin: ბმულები)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>Bitcoin Core-ს შეს&amp;ახებ</translation>
+        <source>&amp;About Latinumcoin Core</source>
+        <translation>Latinumcoin Core-ს შეს&amp;ახებ</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -456,15 +456,15 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>საკომანდო სტრიქონის ოპ&amp;ციები</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Bitcoin Core-ს დახმარების ჩვენება Bitcoin-ის საკომანდო სტრიქონის დასაშვები ოპციების სანახავად</translation>
+        <source>Show the Latinumcoin Core help message to get a list with possible Latinumcoin command-line options</source>
+        <translation>Latinumcoin Core-ს დახმარების ჩვენება Latinumcoin-ის საკომანდო სტრიქონის დასაშვები ოპციების სანახავად</translation>
     </message>
     <message>
-        <source>Bitcoin client</source>
-        <translation>Bitcoin-კლიენტი</translation>
+        <source>Latinumcoin client</source>
+        <translation>Latinumcoin-კლიენტი</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
+        <source>%n active connection(s) to Latinumcoin network</source>
         <translation><numerusform>აქტიური მიერთებები ბითქოინის ქსელთან: %n</numerusform></translation>
     </message>
     <message>
@@ -560,8 +560,8 @@ Address: %4
         <translation>საფულე &lt;b&gt;დაშიფრულია&lt;/b&gt; და ამჟამად &lt;b&gt;დაბლოკილია&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>ფატალური შეცდომა. Bitcoin ვერ უზრუნველყოფს უსაფრთხო გაგრძელებას, ამიტომ იხურება.</translation>
+        <source>A fatal error occurred. Latinumcoin can no longer continue safely and will quit.</source>
+        <translation>ფატალური შეცდომა. Latinumcoin ვერ უზრუნველყოფს უსაფრთხო გაგრძელებას, ამიტომ იხურება.</translation>
     </message>
 </context>
 <context>
@@ -845,8 +845,8 @@ Address: %4
         <translation>მისამართი &quot;%1&quot; უკვე არის მისამართების წიგნში.</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
-        <translation>შეყვანილი მისამართი &quot;%1&quot; არ არის ვალიდური Bitcoin-მისამართი.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Latinumcoin address.</source>
+        <translation>შეყვანილი მისამართი &quot;%1&quot; არ არის ვალიდური Latinumcoin-მისამართი.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -883,12 +883,12 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core - Command-line options</source>
-        <translation>Bitcoin Core - საკომანდო სტრიქონის ოპციები</translation>
+        <source>Latinumcoin Core - Command-line options</source>
+        <translation>Latinumcoin Core - საკომანდო სტრიქონის ოპციები</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -934,16 +934,16 @@ Address: %4
         <translation>მოგესალმებით</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>მოგესალმებათ Bitcoin Core.</translation>
+        <source>Welcome to Latinumcoin Core.</source>
+        <translation>მოგესალმებათ Latinumcoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>ეს პროგრამის პირველი გაშვებაა; შეგიძლიათ მიუთითოთ, სად შეინახოს მონაცემები Bitcoin Core-მ.</translation>
+        <source>As this is the first time the program is launched, you can choose where Latinumcoin Core will store its data.</source>
+        <translation>ეს პროგრამის პირველი გაშვებაა; შეგიძლიათ მიუთითოთ, სად შეინახოს მონაცემები Latinumcoin Core-მ.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core გადმოტვირთავს და შეინახავს Bitcoin-ის ბლოკთა ჯაჭვს. მითითებულ კატალოგში დაგროვდება სულ ცოტა 1 გბ მონაცემები, და მომავალში უფრო გაიზრდება. საფულეც ამავე კატალოგში შეინახება.</translation>
+        <source>Latinumcoin Core will download and store a copy of the Latinumcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Latinumcoin Core გადმოტვირთავს და შეინახავს Latinumcoin-ის ბლოკთა ჯაჭვს. მითითებულ კატალოგში დაგროვდება სულ ცოტა 1 გბ მონაცემები, და მომავალში უფრო გაიზრდება. საფულეც ამავე კატალოგში შეინახება.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -954,8 +954,8 @@ Address: %4
         <translation>მითითებული კატალოგის გამოყენება:</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
@@ -1016,11 +1016,11 @@ Address: %4
         <translation>ტრანსაქციის სა&amp;ფასურის გადახდა</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin after logging in to the system.</source>
-        <translation>სისტემაში შესვლის შემდეგ Bitcoin-ის ავტომატური გაშვება.</translation>
+        <source>Automatically start Latinumcoin after logging in to the system.</source>
+        <translation>სისტემაში შესვლის შემდეგ Latinumcoin-ის ავტომატური გაშვება.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin on system login</source>
+        <source>&amp;Start Latinumcoin on system login</source>
         <translation>&amp;სისტემაში შესვლისას გაშვება</translation>
     </message>
     <message>
@@ -1036,8 +1036,8 @@ Address: %4
         <translation>სკრიპტის &amp;ვერიფიცირების ნაკადების რაოდენობა</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS proxy.</source>
-        <translation>Bitcoin-ქსელზე მიერთება SOCKS-პროქსით.</translation>
+        <source>Connect to the Latinumcoin network through a SOCKS proxy.</source>
+        <translation>Latinumcoin-ქსელზე მიერთება SOCKS-პროქსით.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1088,8 +1088,8 @@ Address: %4
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>როუტერში Bitcoin-კლიენტის პორტის ავტომატური გახსნა. მუშაობს, თუ თქვენს როუტერს ჩართული აქვს UPnP.</translation>
+        <source>Automatically open the Latinumcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>როუტერში Latinumcoin-კლიენტის პორტის ავტომატური გახსნა. მუშაობს, თუ თქვენს როუტერს ჩართული აქვს UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1144,8 +1144,8 @@ Address: %4
         <translation>სამომხმარებ&amp;ლო ენა:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin.</source>
-        <translation>აქ შეგიძლიათ აირჩიოთ სამომხმარებლო ენა. ძალაში შევა Bitcoin-ის რესტარტის შემდეგ.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Latinumcoin.</source>
+        <translation>აქ შეგიძლიათ აირჩიოთ სამომხმარებლო ენა. ძალაში შევა Latinumcoin-ის რესტარტის შემდეგ.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1156,8 +1156,8 @@ Address: %4
         <translation>აირჩიეთ გასაგზავნი თანხის ნაგულისხმევი ერთეული.</translation>
     </message>
     <message>
-        <source>Whether to show Bitcoin addresses in the transaction list or not.</source>
-        <translation>ტრანსაქციების სიაში იყოს თუ არა ნაჩვენები Bitcoin-მისამართები.</translation>
+        <source>Whether to show Latinumcoin addresses in the transaction list or not.</source>
+        <translation>ტრანსაქციების სიაში იყოს თუ არა ნაჩვენები Latinumcoin-მისამართები.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1211,8 +1211,8 @@ Address: %4
         <translation>ფორმა</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>ნაჩვენები ინფორმაცია შეიძლება მოძველებული იყოს. თქვენი საფულე ავტომატურად სინქრონიზდება Bitcoin-ის ქსელთან კავშირის დამყარების შემდეგ, ეს პროცესი ჯერ არ არის დასრულებული.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Latinumcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>ნაჩვენები ინფორმაცია შეიძლება მოძველებული იყოს. თქვენი საფულე ავტომატურად სინქრონიზდება Latinumcoin-ის ქსელთან კავშირის დამყარების შემდეგ, ეს პროცესი ჯერ არ არის დასრულებული.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1266,8 +1266,8 @@ Address: %4
         <translation>URI-ების დამუშავება</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>URI-ის დამუშავება ვერ მოხერხდა. შესაძლოა არასწორია Bitcoin-მისამართი ან  URI-ის პარამეტრები.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Latinumcoin address or malformed URI parameters.</source>
+        <translation>URI-ის დამუშავება ვერ მოხერხდა. შესაძლოა არასწორია Latinumcoin-მისამართი ან  URI-ის პარამეტრები.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1333,8 +1333,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Latinumcoin</source>
+        <translation>Latinumcoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
@@ -1349,7 +1349,7 @@ Address: %4
         <translation>შეცდომა: -regtest-ისა და -testnet-ის დაუშვებელი კომბინაცია.</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>შეიყვანეთ ბიტკოინ-მისამართი (მაგ. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
@@ -1471,16 +1471,16 @@ Address: %4
         <translation>დახვეწის ლოგ-ფაილი</translation>
     </message>
     <message>
-        <source>Open the Bitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>გახსენით Bitcoin-ის დახვეწის ლოგ-ფაილი მიმდინარე კატალოგიდან. დიდი ლოგ-ფაილის შემთხვევაში ამას შეიძლება რამდენიმე წამი მოუნდეს.</translation>
+        <source>Open the Latinumcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>გახსენით Latinumcoin-ის დახვეწის ლოგ-ფაილი მიმდინარე კატალოგიდან. დიდი ლოგ-ფაილის შემთხვევაში ამას შეიძლება რამდენიმე წამი მოუნდეს.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>კონსოლის გასუფთავება</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin RPC console.</source>
-        <translation>მოგესალმებათ Bitcoin-ის RPC კონსოლი.</translation>
+        <source>Welcome to the Latinumcoin RPC console.</source>
+        <translation>მოგესალმებათ Latinumcoin-ის RPC კონსოლი.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1542,7 +1542,7 @@ Address: %4
         <translation>ად&amp;რე გამოყენებული მიღების მისამართის გამოყენება (არ არის რეკომენდებული)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Latinumcoin network.</source>
         <translation>არააუცილებელი მესიჯი, რომელიც ერთვის გადახდის მოთხოვნას და ნაჩვენები იქნება მოთხოვნის გახსნისას. შენიშვნა: მესიჯი არ გაყვება გადახდას ბითქოინის ქსელში.</translation>
     </message>
     <message>
@@ -1855,8 +1855,8 @@ Address: %4
         <translation>ტრანსაქცია უარყოფილია! შესაძლოა მონეტების ნაწილი თქვენი საფულიდან უკვე გამოყენებულია, რაც შეიძლება მოხდეს wallet.dat-ის ასლის გამოყენებისას, როცა მონეტები გაიგზავნა სხვა ასლიდან, აქ კი არ არის გაგზავნილად მონიშნული.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation>ყურადღება: არასწორია Bitcoin-მისამართი</translation>
+        <source>Warning: Invalid Latinumcoin address</source>
+        <translation>ყურადღება: არასწორია Latinumcoin-მისამართი</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1942,7 +1942,7 @@ Address: %4
         <translation>შეიყვანეთ ამ მისამართის ნიშნული გამოყენებული მისამართების სიაში დასამატებლად</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
+        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Latinumcoin network.</source>
         <translation>მესიჯი, რომელიც თან ერთვის მონეტებს:  URI, რომელიც შეინახება ტრანსაქციასთან ერთად თქვენთვის. შენიშვნა: მესიჯი არ გაყვება გადახდას ბითქოინის ქსელში.</translation>
     </message>
     <message>
@@ -1961,8 +1961,8 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
-        <translation>Bitcoin Core იხურება...</translation>
+        <source>Latinumcoin Core is shutting down...</source>
+        <translation>Latinumcoin Core იხურება...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2016,7 +2016,7 @@ Address: %4
         <translation>მიმდინარე ხელმოწერის კოპირება კლიპბორდში</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
+        <source>Sign the message to prove you own this Latinumcoin address</source>
         <translation>მოაწერეთ ხელი იმის დასადასტურებლად, რომ ეს მისამართი თქვენია</translation>
     </message>
     <message>
@@ -2044,8 +2044,8 @@ Address: %4
         <translation>მისამართი, რომლითაც ხელმოწერილია მესიჯი (მაგ.: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>შეამოწმეთ, რომ მესიჯი ხელმოწერილია მითითებული Bitcoin-მისამართით</translation>
+        <source>Verify the message to ensure it was signed with the specified Latinumcoin address</source>
+        <translation>შეამოწმეთ, რომ მესიჯი ხელმოწერილია მითითებული Latinumcoin-მისამართით</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2056,7 +2056,7 @@ Address: %4
         <translation>ვერიფიკაციის ყველა ველის წაშლა</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Latinumcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>შეიყვანეთ ბიტკოინ-მისამართი (მაგ. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
@@ -2115,12 +2115,12 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Latinumcoin Core</source>
+        <translation>Latinumcoin Core</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core-ს ავტორები</translation>
+        <source>The Latinumcoin Core developers</source>
+        <translation>Latinumcoin Core-ს ავტორები</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2646,7 +2646,7 @@ Address: %4
         <translation>საკომანდო სტრიქონისა და JSON-RPC-კომამდების ნებართვა</translation>
     </message>
     <message>
-        <source>Bitcoin Core RPC client version</source>
+        <source>Latinumcoin Core RPC client version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2671,7 +2671,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Latinumcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, მიუთითეთ rpcpassword საკონფიგურაციო ფაილში:
 %s
@@ -2682,7 +2682,7 @@ rpcpassword=%s
 სახელი და პაროლი ერთმანეთს არ უნდა ემთხვეოდეს.
 თუ ფაილი არ არსებობს, შექმენით იგი უფლებებით owner-readable-only.
 ასევე რეკომენდებულია დააყენოთ alertnotify რათა მიიღოთ შეტყობინებები პრობლემების შესახებ;
-მაგალითად: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
+მაგალითად: alertnotify=echo %%s | mail -s &quot;Latinumcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2754,7 +2754,7 @@ rpcpassword=%s
         <translation>ეს არის წინასწარი სატესტო ვერსია - გამოიყენეთ საკუთარი რისკით - არ გამოიყენოთ მოპოვებისა ან კომერციული მიზნებისათვის</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2766,8 +2766,8 @@ rpcpassword=%s
         <translation>ყურადღება:  ძალიან მაღალია -paytxfee - საკომისო, რომელსაც თქვენ გადაიხდით ამ ტრანსაქციის გაგზავნის საფასურად.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bitcoin will not work properly.</source>
-        <translation>ყურადღება: შეამოწმეთ თქვენი კომპიუტერის სისტემური თარიღი და დრო! თუ ისინი არასწორია, Bitcoin ვერ იმუშავებს კორექტულად.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Latinumcoin will not work properly.</source>
+        <translation>ყურადღება: შეამოწმეთ თქვენი კომპიუტერის სისტემური თარიღი და დრო! თუ ისინი არასწორია, Latinumcoin ვერ იმუშავებს კორექტულად.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2802,8 +2802,8 @@ rpcpassword=%s
         <translation>პირადი გასაღებების აღდგენის მცდელობა wallet.dat-იდან</translation>
     </message>
     <message>
-        <source>Bitcoin Core Daemon</source>
-        <translation>Bitcoin Core დემონი</translation>
+        <source>Latinumcoin Core Daemon</source>
+        <translation>Latinumcoin Core დემონი</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -3042,7 +3042,7 @@ rpcpassword=%s
         <translation>ბლოკების იმპორტი გარე blk000??.dat ფაილიდან</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Latinumcoin Core is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3106,7 +3106,7 @@ rpcpassword=%s
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
+        <source>RPC SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3126,11 +3126,11 @@ rpcpassword=%s
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL ოპციები: (იხილე Bitcoin Wiki-ში  SSL-ს მოწყობის ინსტრუქციები)</translation>
+        <source>SSL options: (see the Latinumcoin Wiki for SSL setup instructions)</source>
+        <translation>SSL ოპციები: (იხილე Latinumcoin Wiki-ში  SSL-ს მოწყობის ინსტრუქციები)</translation>
     </message>
     <message>
-        <source>Send command to Bitcoin Core</source>
+        <source>Send command to Latinumcoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3166,7 +3166,7 @@ rpcpassword=%s
         <translation>მიუთითეთ შეერთების ტაიმაუტი მილიწამებში (ნაგულისხმევი: 5000)</translation>
     </message>
     <message>
-        <source>Start Bitcoin Core Daemon</source>
+        <source>Start Latinumcoin Core Daemon</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3282,12 +3282,12 @@ rpcpassword=%s
         <translation>არ იტვირთება wallet.dat: საფულე დაზიანებულია</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin</source>
-        <translation>არ იტვირთება wallet.dat: საფულეს სჭირდება Bitcoin-ის ახალი ვერსია</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Latinumcoin</source>
+        <translation>არ იტვირთება wallet.dat: საფულეს სჭირდება Latinumcoin-ის ახალი ვერსია</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin to complete</source>
-        <translation>საჭიროა საფულის აღდგენა: დაარესტარტეთ Bitcoin </translation>
+        <source>Wallet needed to be rewritten: restart Latinumcoin to complete</source>
+        <translation>საჭიროა საფულის აღდგენა: დაარესტარტეთ Latinumcoin </translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>
