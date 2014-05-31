@@ -41,7 +41,6 @@ public:
 
         // Build the genesis block. Note that the output of the genesis coinbase cannot
         // be spent as it did not originally exist in the database.
-        
         const char* pszTimestamp = "Ruters -5/20/2014-Wall St. holds gains after Fed minutes | Einewton, Shadowman, xPhantomx";
         CTransaction txNew;
         txNew.vin.resize(1);
@@ -58,13 +57,6 @@ public:
         genesis.nNonce   = 574518180;
 
         hashGenesisBlock = genesis.GetHash();
-				
-		printf("Hash: %s\n", hashGenesisBlock.ToString().c_str());
-        printf("Merkle Root: %s\n", genesis.hashMerkleRoot.ToString().c_str());
-        printf("PoW: %x\n", bnProofOfWorkLimit.GetCompact());
-		printf("nTime: %u\n", genesis.nTime);
-		printf("nBits: %u\n", genesis.nBits);
-		printf("nNonce: %u\n", genesis.nNonce);
 		
         assert(hashGenesisBlock == uint256("0x00000000b186d4081b85122cb2beab80d3078f19f4cecf0d25daf3c1d5a27224"));
         assert(genesis.hashMerkleRoot == uint256("0x9e5712387adf60719fbba2e3901bb6bcc83d293284d8871d92c171e7890c0937"));
