@@ -29,7 +29,7 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>Bitcoin-Qt</string>
+  <string>Latinumcoin-Qt</string>
 
   <key>CFBundleIdentifier</key>
   <string>org.bitcoinfoundation.Bitcoin-Qt</string>
