@@ -62,7 +62,7 @@ Optional: install Qt4
 2.  Build bitcoind (and Bitcoin-Qt, if configured):
 
         ./autogen.sh
-        ./configure
+        ./configure LDFLAGS=-headerpad_max_install_names
         make
 
 3.  It is a good idea to build and run the unit tests, too:
