@@ -23,9 +23,9 @@ public:
      */
     enum Unit
     {
-        LAT,
-        mLAT,
-        uLAT
+        LTM,
+        mLTM,
+        uLTM
     };
 
     //! @name Static API

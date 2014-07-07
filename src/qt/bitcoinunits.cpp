@@ -15,9 +15,9 @@ BitcoinUnits::BitcoinUnits(QObject *parent):
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(LAT);
-    unitlist.append(mLAT);
-    unitlist.append(uLAT);
+    unitlist.append(LTM);
+    unitlist.append(mLTM);
+    unitlist.append(uLTM);
     return unitlist;
 }
 
@@ -25,9 +25,9 @@ bool BitcoinUnits::valid(int unit)
 {
     switch(unit)
     {
-    case LAT:
-    case mLAT:
-    case uLAT:
+    case LTM:
+    case mLTM:
+    case uLTM:
         return true;
     default:
         return false;
@@ -38,9 +38,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case LAT: return QString("LAT");
-    case mLAT: return QString("mLAT");
-    case uLAT: return QString::fromUtf8("μLAT");
+    case LTM: return QString("LTM");
+    case mLTM: return QString("mLTM");
+    case uLTM: return QString::fromUtf8("μLTM");
     default: return QString("???");
     }
 }
@@ -49,9 +49,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case LAT: return QString("Bitcoins");
-    case mLAT: return QString("Milli-Bitcoins (1 / 1,000)");
-    case uLAT: return QString("Micro-Bitcoins (1 / 1,000,000)");
+    case LTM: return QString("Bitcoins");
+    case mLTM: return QString("Milli-Bitcoins (1 / 1,000)");
+    case uLTM: return QString("Micro-Bitcoins (1 / 1,000,000)");
     default: return QString("???");
     }
 }
@@ -60,9 +60,9 @@ qint64 BitcoinUnits::factor(int unit)
 {
     switch(unit)
     {
-    case LAT:  return 100000000;
-    case mLAT: return 100000;
-    case uLAT: return 100;
+    case LTM:  return 100000000;
+    case mLTM: return 100000;
+    case uLTM: return 100;
     default:   return 100000000;
     }
 }
@@ -71,9 +71,9 @@ qint64 BitcoinUnits::maxAmount(int unit)
 {
     switch(unit)
     {
-    case LAT:  return Q_INT64_C(21000000);
-    case mLAT: return Q_INT64_C(21000000000);
-    case uLAT: return Q_INT64_C(21000000000000);
+    case LTM:  return Q_INT64_C(21000000);
+    case mLTM: return Q_INT64_C(21000000000);
+    case uLTM: return Q_INT64_C(21000000000000);
     default:   return 0;
     }
 }
@@ -82,9 +82,9 @@ int BitcoinUnits::amountDigits(int unit)
 {
     switch(unit)
     {
-    case LAT: return 8; // 21,000,000 (# digits, without commas)
-    case mLAT: return 11; // 21,000,000,000
-    case uLAT: return 14; // 21,000,000,000,000
+    case LTM: return 8; // 21,000,000 (# digits, without commas)
+    case mLTM: return 11; // 21,000,000,000
+    case uLTM: return 14; // 21,000,000,000,000
     default: return 0;
     }
 }
@@ -93,9 +93,9 @@ int BitcoinUnits::decimals(int unit)
 {
     switch(unit)
     {
-    case LAT: return 8;
-    case mLAT: return 5;
-    case uLAT: return 2;
+    case LTM: return 8;
+    case mLTM: return 5;
+    case uLTM: return 2;
     default: return 0;
     }
 }

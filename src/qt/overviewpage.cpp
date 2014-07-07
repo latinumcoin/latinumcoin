@@ -24,7 +24,7 @@ class TxViewDelegate : public QAbstractItemDelegate
 {
     Q_OBJECT
 public:
-    TxViewDelegate(): QAbstractItemDelegate(), unit(BitcoinUnits::LAT)
+    TxViewDelegate(): QAbstractItemDelegate(), unit(BitcoinUnits::LTM)
     {
 
     }
@@ -188,7 +188,7 @@ void OverviewPage::setWalletModel(WalletModel *model)
         connect(model->getOptionsModel(), SIGNAL(displayUnitChanged(int)), this, SLOT(updateDisplayUnit()));
     }
 
-    // update the display unit, to not use the default ("LAT")
+    // update the display unit, to not use the default ("LTM")
     updateDisplayUnit();
 }
 
